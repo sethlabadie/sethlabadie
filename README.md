@@ -6,7 +6,7 @@
 - 🚀 Data Scientist at [NNData](https://www.nndata.com)
 - 🐕 Proud owner of Argo
 - 💍 Married to Martha
-- 🙉 Hobbies include, Hiking, Scuba Diving, Skiing, Gym
+- 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
 - 📫 How to reach me: sethlabadie@gmail.com
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
