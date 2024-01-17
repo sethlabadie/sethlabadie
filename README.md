@@ -14,6 +14,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&theme=dracula" />
 
 <a href="https://app.daily.dev/sethlabadie"><img src="https://api.daily.dev/devcards/167bcfa4020d434f86c7b612a364b88f.png?r=wlt" width="400" alt="Seth L.'s Dev Card"/></a>
+<a href="https://app.daily.dev/sethlabadie"><img src="https://github.com/sethlabadie/sethlabadie/blob/master/devcard.svg" width="400" alt="Seth Labadie's Dev Card"/></a>
 
 <!---
 sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
