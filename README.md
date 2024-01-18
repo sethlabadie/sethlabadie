@@ -14,23 +14,20 @@
   </a>
 </div>
 
-### Hi there 👋
-
-
-
-
-
-
 ### Hi there, 👋 I'm @sethlabadie
 [//]: # (🚨 My blog: [Blog Name]parens https://sethlabadie.dev parens)
-- 👀 I’m interested in changing the world through data science
+- 👀 I’m interested in improving national security through data science
+- 🔭 I’m currently working on databases, data migration, data cleaning, and data dictionaries
 - 🌱 I’m currently learning various Python packages, DevOps, Docker
-- 💞️ I’m looking to collaborate on ... anything
+- 👯 I’m looking to collaborate on improving skills in Python and Data Science
 - 🚀 Data Scientist at [NNData](https://www.nndata.com)
 - 🐕 Proud owner of Argo
 - 💍 Married to Martha
 - 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
 - 📫 How to reach me: sethlabadie@gmail.com
+<!--- - 🤔 I’m looking for help with ...-->
+<!--- - 💬 Ask me about ...-->
+<!--- ⚡ Fun fact: ...-->
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
 
@@ -41,8 +38,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark)
 
 [![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
