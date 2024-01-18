@@ -25,17 +25,35 @@
 - 💍 Married to Martha
 - 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
 - 📫 How to reach me: sethlabadie@gmail.com
-<!--- - 🤔 I’m looking for help with ...-->
-<!--- - 💬 Ask me about ...-->
-<!--- ⚡ Fun fact: ...-->
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
 
-[//]: (https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&theme=dark" />
+
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=240" />
+</a>
+
+
 
 [//]: (https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark)
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&theme=dark" />  -->
+
+[//]: (https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&show_icons=true&layout=compact&theme=dark)  -->
 
 [//]: (https://github.com/anuraghazra/github-readme-stats)
 [![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
@@ -45,6 +63,15 @@
 ![Metrics](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/achievements.svg)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <!---
 sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
