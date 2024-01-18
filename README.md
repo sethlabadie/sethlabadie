@@ -1,24 +1,7 @@
-<div align="left">
-  <a href="https://twitter.com/sethlabadie">
-    <img
-      src="https://img.shields.io/twitter/follow/sethlabadie?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/sethlabadie">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://wakatime.com/@sethlabadie">
-    <img
-      src="https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg"
-      alt="Wakatime"
-    />
-  </a>
-</div>
+[![github](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
+[![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86)](https://www.linkedin.com/in/sethlabadie)
+[![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@18d1a7a-3684-4fa0-a2d4-18ba89ddd697)
 
 <div align="left">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
@@ -30,6 +13,12 @@
     />
   </a>
 </div>
+
+### Hi there 👋
+
+
+
+
 
 
 ### Hi there, 👋 I'm @sethlabadie
@@ -52,11 +41,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark)
 
 [![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
-
 
 
 
