@@ -44,6 +44,7 @@
 [//]: (https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark)
 
+[![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Metrics](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/notable.svg)
