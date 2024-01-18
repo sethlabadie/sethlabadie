@@ -47,8 +47,6 @@
 
 
 
-
-![Metrics](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/achievements.svg)
 
