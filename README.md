@@ -20,7 +20,7 @@
 
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
     <img
-      width="360"
+      width="256"
       align="right"
       src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.svg"
       alt="Seth Labadie's Dev Card"/></a>
