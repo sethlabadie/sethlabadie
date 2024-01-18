@@ -41,6 +41,10 @@
 [//]: (https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&theme=dark" />
 
+[//]: (https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark)
+
+
 ![Metrics](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/achievements.svg)
