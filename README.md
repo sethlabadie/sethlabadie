@@ -38,7 +38,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark)
 
 [//]: (https://github.com/anuraghazra/github-readme-stats)
-[![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie)](https://wakatime.com/@18d1a7a-3684-4fa0-a2d4-18ba89ddd697)
+[![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
 
 
 
