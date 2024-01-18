@@ -15,7 +15,6 @@
     <img
       src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square"
       alt="Cloud Native Mastodon"
-    />
   </a>
 
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
