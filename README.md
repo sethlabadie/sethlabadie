@@ -11,6 +11,13 @@
       alt="LinkedIn"
     />
   </a>
+
+  <a href="https://wakatime.com/@sethlabadie">
+    <img
+      src="https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg"
+      alt="Wakatime"
+    />
+  </a>
 </div>
 
 <div align="left">
@@ -45,6 +52,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark)
 
 [![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
+
+
+
+
 
 
 ![Metrics](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/github-metrics.svg)
