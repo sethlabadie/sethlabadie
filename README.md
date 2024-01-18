@@ -31,32 +31,22 @@
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
 
-[//]: (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+[//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
+![Metrics](/github-metrics.svg)
 
-
-
-
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=320" />
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=200" />
 </a>
 
 
 
-[//]: (https://github.com/anuraghazra/github-readme-stats)
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&theme=dark" />  -->
 
-[//]: (https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&show_icons=true&layout=compact&theme=dark)  -->
-
-[//]: (https://github.com/anuraghazra/github-readme-stats)
-[![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
-
-
-![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
 
 ![Metrics](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/github-metrics.svg)
 ![Notable contributions](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/notable.svg)
