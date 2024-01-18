@@ -28,14 +28,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
 
-
+[//]: (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
+<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 
 
@@ -57,7 +54,6 @@
 
 [//]: (https://github.com/anuraghazra/github-readme-stats)
 [![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
-
 
 
 ![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
