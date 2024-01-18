@@ -34,6 +34,9 @@
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Metrics](/github-metrics.svg)
 
+[//]: # (https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
+![Wakatime](/wakatime.svg)
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&theme=dark&card_width=160" />
