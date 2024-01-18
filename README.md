@@ -44,7 +44,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=240" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </a>
 
 
@@ -65,12 +65,6 @@
 ![Achievements](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/achievements.svg)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 
 <!---
