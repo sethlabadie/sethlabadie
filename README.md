@@ -11,18 +11,15 @@
       alt="LinkedIn"
     />
   </a>
-  <a rel="me" href="https://awscommunity.social/@sethlabadie">
-    <img
-      src="https://img.shields.io/mastodon/follow/109437637721057155?color=blueviolet&domain=https%3A%2F%2Fcloud-native.social&label=Mastodon&logo=mastodon&logoColor=white&style=flat-square"
-      alt="Cloud Native Mastodon"
-  </a>
+</div>
 
+<div align="left">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
     <img
       width="256"
       align="right"
       src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.svg"
-      alt="Seth Labadie's Dev Card"/></a>
+      alt="Seth Labadie's Dev Card"
     />
   </a>
 </div>
@@ -41,8 +38,12 @@
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&theme=dracula" />
+[//]: (https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&theme=dark" />
 
+![Metrics](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/achievements.svg)
 
 <!---
 sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
