@@ -21,8 +21,7 @@
 - 🌱 I’m currently learning various Python packages, DevOps, Docker
 - 👯 I’m looking to collaborate on improving skills in Python and Data Science
 - 🚀 Data Scientist at [NNData](https://www.nndata.com)
-- 🐕 Proud owner of Argo
-- 💍 Married to Martha
+- 🐕 Proud owner of Argo       <!--- 💍 Married to Martha-->
 - 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
 - 📫 How to reach me: sethlabadie@gmail.com
 - 🤔 I’m looking for help with ...
@@ -30,6 +29,8 @@
 - ⚡ Fun fact: ...
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
+[//]: # (- 💍 Married to Martha)
+
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Metrics](/github-metrics.svg)
