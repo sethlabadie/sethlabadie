@@ -37,8 +37,6 @@
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Metrics](/github-metrics.svg)
 
-[//]: # (https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
-![Wakatime](/wakatime.svg)
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -47,10 +45,11 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=160" />
+  <img height=120 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=160" />
 </a>
 
-
+[//]: # (https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
+![Wakatime](/wakatime.svg)
 
 
 ![Notable contributions](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/notable.svg)
