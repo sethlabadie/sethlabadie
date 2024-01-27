@@ -44,7 +44,7 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=200" />
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=160" />
 </a>
 
 [![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
