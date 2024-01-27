@@ -53,11 +53,8 @@
 
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
-![Wakatime](/wakatime.svg)
 
 
-![Notable contributions](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/sethlabadie/sethlabadie/github-metrics/achievements.svg)
 
 
 
