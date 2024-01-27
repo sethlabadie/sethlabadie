@@ -50,6 +50,22 @@
 [![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[//]: # (Coding Activity)
+<figure><embed src="https://wakatime.com/share/@sethlabadie/dd3070ff-5226-4aa2-a6f6-842ffa91cbfd.svg"></embed></figure>
+
+[//]: # (Coding Activity Table)
+<figure><embed src="https://wakatime.com/share/@sethlabadie/c37408e6-4378-416f-92bd-fd44e500162a.svg"></embed></figure>
+
+[//]: # (Coding Activity Table JSON)
+
+$.ajax({
+  type: 'GET',
+  url: 'https://wakatime.com/share/@sethlabadie/21443060-b276-4a3c-bcb7-38632169bec6.json',
+  dataType: 'jsonp',
+  success: function(response) {
+    console.log(response.data);
+  },
+});
 
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
