@@ -39,12 +39,12 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&include_all_commits=true&theme=dark&card_width=160" />
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&include_all_commits=true&theme=dark&card_width=160" />
 </a>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=120 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=160" />
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=160" />
 </a>
 
 [![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -56,16 +56,7 @@
 [//]: # (Coding Activity Table)
 <figure><embed src="https://wakatime.com/share/@sethlabadie/c37408e6-4378-416f-92bd-fd44e500162a.svg"></embed></figure>
 
-[//]: # (Coding Activity Table JSON)
 
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@sethlabadie/21443060-b276-4a3c-bcb7-38632169bec6.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
 
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
