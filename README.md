@@ -20,19 +20,22 @@
 [//]: # (🚨 My blog: [Blog Name]parens https://sethlabadie.dev parens)
 - 👀 I’m interested in improving national security through data science
 - 🔭 I’m currently working on databases, data migration, data cleaning, and data dictionaries
-- 🌱 I’m currently learning various Python packages, DevOps, Docker
+- 🌱 I’m currently learning various Python packages, DevOps, Docker, Artificial Intelligence, Machine Learning
 - 👯 I’m looking to collaborate on improving skills in Python and Data Science
 - 🚀 Data Scientist at [NNData](https://www.nndata.com)
 - 🐕 Proud owner of Argo       <!--- 💍 Married to Martha-->
 - 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
 - 📫 How to reach me: sethlabadie@gmail.com
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
+- 💬 Ask me about the military, using Data Science to improve National Security
+- ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
 [//]: # (- 💍 Married to Martha)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1761c0cd-c4f3-4fa7-8854-6b00479f4c46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Metrics](/github-metrics.svg)
