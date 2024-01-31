@@ -2,6 +2,7 @@
 [![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
 [![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86)](https://www.linkedin.com/in/sethlabadie)
 [![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
+[![credly](https://www.credly.com/users/seth-labadie)
 
 <div align="left">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
@@ -34,7 +35,7 @@
 <!-- Credly badge for AWS Cloud Foundations -->
 
 <div align="left">
-  <a href="https://www.credly.com" target="_blank">
+  <a href="https://www.credly.com" target="https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url">
     <img
       width="150"
       height="150"
