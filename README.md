@@ -33,6 +33,24 @@
 [//]: # (This is a comment.)
 [//]: # (- 💍 Married to Martha)
 
+
+<!-- Credly badge for AWS -->
+<a href="https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url">
+  <img height=200 align="top" src="https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url" />
+</a>
+
+<div align="left">
+  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
+    <img
+      width="150"
+      height="270"
+      align="left"
+      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.svg"
+      alt="Seth Labadie's Dev Card"
+    />
+  </a>
+</div>
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1761c0cd-c4f3-4fa7-8854-6b00479f4c46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url
