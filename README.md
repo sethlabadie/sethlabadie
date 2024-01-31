@@ -35,7 +35,7 @@
 <!-- Credly badge for AWS Cloud Foundations -->
 
 <div align="left">
-  <a href="https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url" target="https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url">
+  <a href="https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url" target="_blank">
     <img
       width="150"
       height="150"
@@ -47,7 +47,7 @@
 </div>
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1761c0cd-c4f3-4fa7-8854-6b00479f4c46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1761c0cd-c4f3-4fa7-8854-6b00479f4c46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
