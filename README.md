@@ -67,8 +67,8 @@
 
 ---
 ## My WakaTime coding stats
-
-[![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # (from https://github.com/anuraghazra/github-readme-stats)
+[![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark&hide=Other,INI)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [//]: # (Coding Activity)
