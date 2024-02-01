@@ -33,8 +33,9 @@
 [//]: # (This is a comment.)
 [//]: # (- 💍 Married to Martha)
 
-<!-- Credly badge for AWS Cloud Foundations -->
 
+<!-- Credly badge for AWS Cloud Foundations -->
+<!---
 <div align="left">
   <a href="https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url" target="_blank">
     <img
@@ -46,7 +47,7 @@
     />
   </a>
 </div>
-
+--->
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Metrics](/github-metrics.svg)
