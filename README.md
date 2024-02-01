@@ -74,6 +74,11 @@
 [//]: # (https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
 
 
+---
+## View my verified badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 <!---
 [![Seth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sethlabadie&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/sethlabadie)
@@ -92,8 +97,6 @@
 |--------------------------------------|----------------|---------------|-------|
 | Introduction to Programming (Python) | October 2021   | December 2022 | ✅     |
 | Introduction to Cloud                | January 2023   | February 2023 | ✅     |
-
-
 --->
 
 
