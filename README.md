@@ -83,6 +83,7 @@
 ---
 ## View my verified badges
 <!--START_SECTION:badges-->
+[![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 <!--END_SECTION:badges-->
 
 
