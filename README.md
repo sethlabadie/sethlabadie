@@ -5,6 +5,17 @@
 [![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.sethlabadie.dev)
 
+<div align="left">
+  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.svg"
+      alt="Seth Labadie's Dev Card"
+    />
+  </a>
+</div>
+
 ### Hi there, 👋 I'm @sethlabadie
 [//]: # (🚨 My blog: [Blog Name]parens https://sethlabadie.dev parens)
 - 👀 I’m interested in improving national security through data science
@@ -35,12 +46,6 @@
     />
   </a>
 </div>
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1761c0cd-c4f3-4fa7-8854-6b00479f4c46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
-
-
-
 
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
@@ -85,13 +90,9 @@
 
 | Topic                                | Start          | End           | Done  |
 |--------------------------------------|----------------|---------------|-------|
-| Power BI Data Analysis               | October 2022   | December 2022 | ✅     |
-| Programming Basic with Python        | January 2023   | February 2023 | ✅     |
-| Math Concepts for Developers         | March 2023     | June 2023     | ✅     |
-| Programming Fundamentals with Python | May 2023       | August 2023   | ✅     |
-| Programming Advanced with Python     | September 2023 | October 2023  | ✅     |
-| Programming with Python OOP          | October 2023   | December 2023 | ✅     |
-| Jupyter Notebook Mastery             | December 2023  | January 2024  | ✅     |
+| Introduction to Programming (Python) | October 2021   | December 2022 | ✅     |
+| Introduction to Cloud                | January 2023   | February 2023 | ✅     |
+
 
 --->
 
