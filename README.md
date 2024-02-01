@@ -1,19 +1,9 @@
 [![github](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
+![GitHub User's stars](https://img.shields.io/github/stars/sethlabadie?logo=github&style=plastic)
 [![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
 [![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86)](https://www.linkedin.com/in/sethlabadie)
 [![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
-[![credly](https://www.credly.com/users/seth-labadie)
-
-<div align="left">
-  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.svg"
-      alt="Seth Labadie's Dev Card"
-    />
-  </a>
-</div>
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.sethlabadie.dev)
 
 ### Hi there, 👋 I'm @sethlabadie
 [//]: # (🚨 My blog: [Blog Name]parens https://sethlabadie.dev parens)
@@ -80,6 +70,30 @@
 
 
 
+<!---
+[![Seth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sethlabadie&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/sethlabadie)
+
+![Seth's GitHub activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sethlabadie&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sethlabadie&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sethlabadie&theme=default) &nbsp;&nbsp;&nbsp;  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sethlabadie&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sethlabadie&theme=default)  &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sethlabadie&theme=default&utcOffset=8)
+
+### Courses
+
+| Topic                                | Start          | End           | Done  |
+|--------------------------------------|----------------|---------------|-------|
+| Power BI Data Analysis               | October 2022   | December 2022 | ✅     |
+| Programming Basic with Python        | January 2023   | February 2023 | ✅     |
+| Math Concepts for Developers         | March 2023     | June 2023     | ✅     |
+| Programming Fundamentals with Python | May 2023       | August 2023   | ✅     |
+| Programming Advanced with Python     | September 2023 | October 2023  | ✅     |
+| Programming with Python OOP          | October 2023   | December 2023 | ✅     |
+| Jupyter Notebook Mastery             | December 2023  | January 2024  | ✅     |
+
+--->
 
 
 
