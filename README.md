@@ -1,5 +1,6 @@
 [![github](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/sethlabadie?logo=github&style=plastic)
+[![Linkedin Badge](https://img.shields.io/badge/-sethlabadie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethlabadie/)
 [![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86)](https://www.linkedin.com/in/sethlabadie)
 [![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
 [![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
@@ -16,22 +17,21 @@
   </a>
 </div>
 
-### Hi there, 👋 I'm @sethlabadie
+### Hi there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Seth Labadie
 [//]: # (🚨 My blog: [Blog Name]parens https://sethlabadie.dev parens)
 - 👀 I’m interested in improving national security through data science
 - 🔭 I’m currently working on databases, data migration, data cleaning, and data dictionaries
 - 🌱 I’m currently learning various Python packages, DevOps, Docker, Artificial Intelligence, Machine Learning
 - 👯 I’m looking to collaborate on improving skills in Python and Data Science
 - 🚀 Data Scientist at [NNData](https://www.nndata.com)
-- 🐕 Proud owner of Argo       <!--- 💍 Married to Martha-->
+- 🐕 Proud owner of Argo
+  <!--- 💍 Married to Martha-->
 - 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
 - 📫 How to reach me: sethlabadie@gmail.com
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
 - 💬 Ask me about the military, using Data Science to improve National Security
 - ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
-<!--this is an in-line comment-->
-[//]: # (This is a comment.)
-[//]: # (- 💍 Married to Martha)
+
 
 
 <!---
@@ -55,6 +55,12 @@
 --->
 
 
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+
 
 
 <!-- Credly badge for AWS Cloud Foundations -->
@@ -71,6 +77,9 @@
   </a>
 </div>
 --->
+
+
+
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Metrics](/github-metrics.svg)
@@ -129,7 +138,8 @@
 | Introduction to Cloud                | January 2023   | February 2023 | ✅     |
 --->
 
-
+<!--this is an in-line comment-->
+[//]: # (This is a comment.)
 
 <!---
 sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
