@@ -68,12 +68,13 @@
 [![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark&hide=Other,INI,Smarty)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<!---
 ---
 ## Top Repositories
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=100 align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sethlabadie&repo=sethlabadie&layout=compact&theme=dark" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=100 align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sethlabadie&repo=sethlabadie.github.io&layout=compact&theme=dark" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=100 align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sethlabadie&repo=Setup&layout=compact&theme=dark" /></a>
 | ------------- | ------------- | ------------- |
-
+--->
 
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
