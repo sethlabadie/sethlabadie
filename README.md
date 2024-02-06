@@ -56,19 +56,16 @@
 ## My GitHub stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&include_all_commits=true&theme=dark&card_width=160" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="top" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&include_all_commits=true&theme=dark&card_width=160" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=160" /></a> |
+| ------------- | ------------- |
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=160" />
-</a>
 
 ---
 ## My WakaTime coding stats
+
+
 [//]: # (from https://github.com/anuraghazra/github-readme-stats)
-[![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark&hide=Other,INI)](https://github.com/anuraghazra/github-readme-stats)
+[![Seth's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark&hide=Other,INI,Smarty)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [//]: # (Coding Activity)
