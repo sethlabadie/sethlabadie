@@ -34,6 +34,10 @@
 [//]: # (- 💍 Married to Martha)
 
 
+
+
+
+
 <!-- Credly badge for AWS Cloud Foundations -->
 <!---
 <div align="left">
@@ -56,7 +60,7 @@
 ## My GitHub stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="top" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&include_all_commits=true&theme=dark&card_width=160" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=8&card_width=160" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="top" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&include_all_commits=true&theme=dark&card_width=160&show=reviews,discussions_started,discussions_answered" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=10&card_width=160" /></a> |
 | ------------- | ------------- |
 
 
