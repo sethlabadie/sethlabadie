@@ -24,11 +24,7 @@
 - 👯 I’m looking to collaborate on improving skills in Python and Data Science
 - 🚀 Data Scientist at [NNData](https://www.nndata.com)
 - 🐕 Proud owner of Argo
-<<<<<<< HEAD
   <!--- 💍 Married to Martha-->
-=======
-<!--- 💍 Married to Martha-->
->>>>>>> refs/remotes/origin/main
 - 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
 - 📫 How to reach me: sethlabadie@gmail.com
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
