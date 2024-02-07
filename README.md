@@ -1,11 +1,6 @@
 [![github](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/sethlabadie?logo=github&style=plastic)
 [![Linkedin Badge](https://img.shields.io/badge/-sethlabadie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethlabadie/)
-<<<<<<< HEAD
-=======
-[![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86)](https://www.linkedin.com/in/sethlabadie)
->>>>>>> refs/remotes/origin/main
-[![linkedin](https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86)](https://www.linkedin.com/in/sethlabadie)
 [![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
 [![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
 [![Website](https://img.shields.io/website?label=sethlabadie.dev&url=https%3A%2F%2Fsethlabadie.dev)](https://sethlabadie.dev)
