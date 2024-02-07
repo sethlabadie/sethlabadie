@@ -30,10 +30,6 @@
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
 - 💬 Ask me about the military, using Data Science to improve National Security
 - ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
-<<<<<<< HEAD
-
-=======
->>>>>>> refs/remotes/origin/main
 
 
 <!---
