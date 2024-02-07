@@ -143,6 +143,20 @@ another table example:
 | `openAiApiKey`           | OpenAI API Key         | `string`                            | `true`   | `empty`                     | Your personal OpenAI API key                                                                                     |    
 | `openAiBasePath`         | OpenAI Base Path       | `string`                            | `false`  | `empty`                     | Custom API basepath                                                                                              |
 
+
+An HTML version of a table:
+<table>
+  <tr>
+    <td><a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(build status)</sup></p></td>
+    <td><img src="http://f.cl.ly/items/2H233M0I0T43313c3h0C/Screen%20Shot%202013-01-30%20at%202.45.30%20AM.png" alt="Travis CI badge"></td>
+  </tr>
+  <tr>
+    <td><a href="https://gemnasium.com/"><strong>Gemnasium</strong></a><p><sup>(dependency checks)</sup></p></td>
+    <td><img src="http://f.cl.ly/items/2j1D2R0q2C3s1x2y3k09/Screen%20Shot%202013-01-30%20at%202.46.10%20AM.png" alt="Gemnasium badge"></td>
+  </tr>
+</table>
+
+
 --->
 
 <!--this is an in-line comment-->
