@@ -138,9 +138,17 @@
 |--------------------------------------|----------------|---------------|-------|
 | Introduction to Programming (Python) | October 2021   | December 2022 | ✅     |
 | Introduction to Cloud                | January 2023   | February 2023 | ✅     |
+
+
+another table example:
+
+| Properties               | Label                  | Value                               | Required | Default                     | Description                                                                                                      |
+| ------------------------ | ---------------------- | ----------------------------------- | -------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| `openAiApiKey`           | OpenAI API Key         | `string`                            | `true`   | `empty`                     | Your personal OpenAI API key                                                                                     |    
+| `openAiBasePath`         | OpenAI Base Path       | `string`                            | `false`  | `empty`                     | Custom API basepath                                                                                              |
+
 --->
 
-<<<<<<< HEAD
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
 =======
@@ -148,7 +156,7 @@
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
 
->>>>>>> refs/remotes/origin/main
+
 
 <!---
 sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
