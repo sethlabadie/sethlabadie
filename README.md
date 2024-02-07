@@ -5,16 +5,6 @@
 [![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
 [![Website](https://img.shields.io/website?label=sethlabadie.dev&url=https%3A%2F%2Fsethlabadie.dev)](https://sethlabadie.dev)
 
-<div align="left">
-  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.svg"
-      alt="Seth Labadie's Dev Card"
-    />
-  </a>
-</div>
 
 ### Hi there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Seth Labadie
 [//]: # (🚨 My blog: [Blog Name]parens https://sethlabadie.dev parens)
@@ -77,10 +67,20 @@
 --->
 
 
-
+<div align="left">
+  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.svg"
+      alt="Seth Labadie's Dev Card"
+    />
+  </a>
+</div>
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Metrics](/github-metrics.svg)
+
 
 ---
 ## My GitHub stats
