@@ -11,7 +11,7 @@ on:
   #push: {branches: ["master", "main"]}
 
 jobs:
-  Metrics_GitHub:
+  metrics_github:
     runs-on: ubuntu-latest
     environment: 
       name: production
