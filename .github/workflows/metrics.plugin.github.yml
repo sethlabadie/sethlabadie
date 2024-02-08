@@ -21,7 +21,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           config_timezone: America/New_York
-          filename: metrics.plugin.github.svg
+          filename: devcard.svg
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: commit
           committer_branch: metrics-renders
