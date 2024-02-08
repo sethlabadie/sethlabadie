@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master, main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "21 0 * * *"
 
 jobs:
   devcard:

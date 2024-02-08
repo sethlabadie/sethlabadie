@@ -78,6 +78,9 @@
   </a>
 </div>
 
+![Metrics](https://metrics.lecoq.io/sethlabadie?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&introduction=false&introduction.title=true&config.timezone=America%2FNew_York&config.octicon=true)
+
+
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Metrics](/github-metrics.svg)
 
