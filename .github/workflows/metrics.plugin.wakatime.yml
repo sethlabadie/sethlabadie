@@ -1,6 +1,6 @@
 # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md
 
-name: WakaTime
+name: Metrics WakaTime
 
 on:
   # Schedule daily updates

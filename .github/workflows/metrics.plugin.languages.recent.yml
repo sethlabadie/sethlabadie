@@ -1,6 +1,6 @@
 # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
 
-name: Recently used
+name: Metrics Languages Recently Used
 
 on:
   # Schedule daily updates

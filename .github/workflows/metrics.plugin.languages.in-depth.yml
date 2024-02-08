@@ -1,6 +1,6 @@
 # https://github.com/lowlighter/metrics/blob/master/source/plugins/languages/README.md
 
-name: Indepth analysis
+name: Metrics Languages Most Used (in-depth)
 
 on:
   # Schedule daily updates

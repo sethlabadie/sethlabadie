@@ -1,6 +1,6 @@
 # https://github.com/lowlighter/metrics/blob/master/source/plugins/stargazers/README.md
 
-name: GitHub_stargazers_map
+name: Metrics Stargazers World Map
 
 on:
   # Schedule daily updates
@@ -11,7 +11,7 @@ on:
   #push: {branches: ["master", "main"]}
   
 jobs:
-  GitHub_stargazers_map:
+  Metrics_stargazers_world_map:
     runs-on: ubuntu-latest
     environment: 
       name: production
