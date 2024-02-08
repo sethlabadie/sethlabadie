@@ -1,6 +1,6 @@
   # 
 
-name: Metrics Organization Introduction
+name: Metrics Introduction
 
 on:
   # Schedule daily updates
@@ -11,7 +11,7 @@ on:
   #push: {branches: ["master", "main"]}
   
 jobs:
-  Metrics_organization-introduction:
+  metrics_introduction:
     runs-on: ubuntu-latest
     environment: 
       name: production
