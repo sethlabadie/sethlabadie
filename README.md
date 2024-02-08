@@ -49,31 +49,13 @@
 {{- end}}
 
 
-
-
-<!-- Credly badge for AWS Cloud Foundations -->
-<!---
-<div align="left">
-  <a href="https://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46/public_url" target="_blank">
-    <img
-      width="150"
-      height="150"
-      align="right"
-      src="https://github.com/sethlabadie/sethlabadie/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png"
-      alt="AWS Cloud Foundations"
-    />
-  </a>
-</div>
---->
-
-
 <div align="left">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
     <img
       width="256"
       align="right"
       src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.svg"
-      alt="Seth Labadie's Dev Card"
+      alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
 </div>
