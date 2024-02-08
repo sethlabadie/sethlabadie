@@ -4,14 +4,14 @@ name: Icons
 
 on:
   # Schedule daily updates
-  schedule: [{cron: "14 1 * * *"}] # Runs at 01:07 America/New_York every day
+  schedule: [{cron: "14 1 * * *"}] # Runs at 01:14 America/New_York every day
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
   #push: {branches: ["master", "main"]}
   
 jobs:
-  github-metrics:
+  starred-topics:
     runs-on: ubuntu-latest
     environment: 
       name: production

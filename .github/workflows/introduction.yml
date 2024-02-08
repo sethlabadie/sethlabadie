@@ -1,8 +1,27 @@
+  # 
+
 name: Organization introduction
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.introduction.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  user: github
-  base: header
-  plugin_introduction: yes
+
+on:
+  # Schedule daily updates
+  schedule: [{cron: "34 2 * * *"}] # Runs at 00:17 America/New_York every day
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  #push: {branches: ["master", "main"]}
+  
+jobs:
+  organization-introduction:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: github
+          base: header
+          plugin_introduction: yes

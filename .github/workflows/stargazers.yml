@@ -11,7 +11,7 @@ on:
   #push: {branches: ["master", "main"]}
   
 jobs:
-  github-metrics:
+  stargazers:
     runs-on: ubuntu-latest
     environment: 
       name: production
