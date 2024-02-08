@@ -22,6 +22,6 @@ jobs:
         with:
           filename: metrics.plugin.introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: github
+          user: sethlabadie
           base: header
           plugin_introduction: yes

@@ -9,8 +9,8 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme:
-    name: Update Readme with badges
+  update_credly_badges:
+    name: Update Credly Badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme

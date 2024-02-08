@@ -11,7 +11,7 @@ on:
   #push: {branches: ["master", "main"]}
   
 jobs:
-  starred-topics:
+  starred_topics_icons:
     runs-on: ubuntu-latest
     environment: 
       name: production
@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.icons.svg
+          filename: metrics.plugin.starred-topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
