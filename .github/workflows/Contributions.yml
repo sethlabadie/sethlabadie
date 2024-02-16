@@ -1,7 +1,30 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+
 name: metrics.plugin.contributions
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.notable.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_notable: yes
+
+on:
+  # Schedule daily updates
+  schedule: [{cron: "31 0 * * *"}] # Runs at 00:17 America/New_York every day
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  #push: {branches: ["master", "main"]}
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: GitHub Notable Contributions
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
