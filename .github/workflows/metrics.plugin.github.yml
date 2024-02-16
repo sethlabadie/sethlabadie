@@ -24,7 +24,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          filename: metrics.plugin.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
@@ -50,7 +50,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           config_timezone: America/New_York
-          filename: github-metrics2.svg
+          filename: metrics.plugin.base2.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
@@ -75,14 +75,14 @@ jobs:
           retries_output_action: 5
           retries_delay_output_action: 120
           output_condition: data-changed
-          config_display: large
+          config_display: regular
           
       - name: GitHub Metrics3
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           config_timezone: America/New_York
-          filename: metrics.base.svg
+          filename: metrics.plugin.base3.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
@@ -92,7 +92,7 @@ jobs:
           retries_output_action: 5
           retries_delay_output_action: 120
           output_condition: data-changed
-          config_display: large
+          config_display: regular
           
 
       - name: Achievements
