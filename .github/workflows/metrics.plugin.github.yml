@@ -25,7 +25,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
