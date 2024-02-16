@@ -80,10 +80,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: achievements.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
+#          output_action: gist
+#          committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
@@ -93,10 +93,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: sponsors.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
+#          output_action: gist
+#          committer_gist: ${{ secrets.GIST }}
           plugin_sponsors: yes
           plugin_sponsors_past: yes
           plugin_sponsorships: yes
