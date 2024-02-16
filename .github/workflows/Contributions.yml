@@ -1,4 +1,4 @@
-name: Contributions
+name: metrics.plugin.contributions
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.notable.svg
