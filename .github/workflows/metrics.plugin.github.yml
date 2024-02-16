@@ -24,7 +24,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: general.svg
+          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
@@ -70,9 +70,6 @@ jobs:
           plugin_topics_mode: icons
           plugin_notable: yes
           plugin_discussions: yes
-          output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "chore: update metrics"
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -90,9 +87,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           base_hireable: yes
-          output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "chore: update metrics"
           retries: 3
           retries_delay: 300
           retries_output_action: 5
@@ -112,7 +106,6 @@ jobs:
 #          committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_fortune: yes
 
       - name: Sponsors
         if: ${{ success() || failure() }}
