@@ -1,6 +1,6 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 
-name: metrics.plugin.contributions
+name: GitHub Notable Contributions
 
 on:
   # Schedule daily updates
