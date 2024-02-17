@@ -37,13 +37,15 @@
 
 ---
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
+
 <!--- GitHub Metrics --->
-![Introduction](/metrics.plugin.base.svg)
+
+![Introduction](metrics.plugin.base.svg)
+![Starred Topics](metrics.plugin.starred-topics.icons.svg)
+![Metrics](metrics.plugin.languages.in-depth.svg)
+![Stargazers](metrics.plugin.languages.recent.svg)
+
 <br />
-![Metrics](/metrics.plugin.langscontsdisctopics.svg)
-![Stargazers](/metrics.plugin.stargazers.combined.svg)
-
-
 <!--- GitHub Stats --->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!---
