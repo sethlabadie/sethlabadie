@@ -64,6 +64,17 @@
 ![Seth's WakaTime Stats](/metrics.plugin.wakatime.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 09 February 2024 - To: 16 February 2024
+
+Other        2 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   41.80 %
+sh           2 hrs 24 mins   █████████▒░░░░░░░░░░░░░░░   37.42 %
+Bash         52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+YAML         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
