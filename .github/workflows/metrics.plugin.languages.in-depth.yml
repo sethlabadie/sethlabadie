@@ -31,7 +31,7 @@ jobs:
           commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
           plugin_languages_skipped: lowlighter/metrics
           plugin_languages_ignored: >-
-            tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+            svg, png, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_sections: most-used
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_categories: data, markup, programming, prose
