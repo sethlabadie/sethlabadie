@@ -38,7 +38,6 @@
 ---
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 <!--- GitHub Metrics --->
-[//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Introduction](/metrics.plugin.base.svg)
 <br />
 ![Metrics](/metrics.plugin.langscontsdisctopics.svg)
@@ -58,54 +57,35 @@
 ## My WakaTime Coding Stats
 
 
-[//]: # (from https://github.com/anuraghazra/github-readme-stats)
+<!--- from https://github.com/anuraghazra/github-readme-stats --->
 [![Seth's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark&hide=Other,INI,Smarty)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Seth's WakaTime Stats](/metrics.plugin.wakatime.svg)
 
+
 <!--START_SECTION:waka-->
-
-```txt
-From: 09 February 2024 - To: 16 February 2024
-
-Other        2 hrs 41 mins   ██████████▒░░░░░░░░░░░░░░   41.80 %
-sh           2 hrs 24 mins   █████████▒░░░░░░░░░░░░░░░   37.42 %
-Bash         52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-YAML         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-```
-
 <!--END_SECTION:waka-->
 
+
 ---
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
+<h2> Technologies Which Interest Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Tips to use Watson Discovery](https://pemtajo.medium.com/4-tips-to-use-watson-discovery-802f3c568315?source=rss-bb908bda42e------2)
-- [Adding badges to your Github profile](https://dev.to/pemtajo/how-to-improve-your-github-profile-by-adding-badges-gib)
-- [How to improve your Github profile by adding badges](https://pemtajo.medium.com/how-to-improve-your-github-profile-by-adding-badges-2c10363f4f9a?source=rss-bb908bda42e------2)
-- [Good test vs. bad test, como identificar?](https://medium.com/devorando/good-test-bad-test-como-identificar-ffd1d43ca034?source=rss-bb908bda42e------2)
-- [Tokens JWT! o que são? o que comem? onde vivem?](https://medium.com/devorando/tokens-jwt-o-que-s%C3%A3o-o-que-comem-onde-vivem-f4e85ad37876?source=rss-bb908bda42e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
 
 <!---
 ---
-
-
-
 ## Top Repositories
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=100 align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sethlabadie&repo=sethlabadie&layout=compact&theme=dark" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=100 align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sethlabadie&repo=sethlabadie.github.io&layout=compact&theme=dark" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=100 align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sethlabadie&repo=Setup&layout=compact&theme=dark" /></a>
 | ------------- | ------------- | ------------- |
 --->
-
-
-[//]: # (https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md)
 
 
 ---
