@@ -40,7 +40,7 @@ jobs:
           retries_delay_output_action: 30
           
 
-      - name: GitHub Metrics - Languages, Contributions, Discussions, Topics
+      - name: GitHub Metrics - Languages, Contributions, Discussions, Topics, Achievements, Stargazers, Sponsors
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
