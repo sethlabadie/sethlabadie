@@ -1,0 +1,63 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+
+name: GitHub Metrics - Stargazers
+
+on:
+  # Schedule daily updates
+  schedule: [{cron: "07 1 * * *"}] # Runs at 01:07 America/New_York every day
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  #push: {branches: ["master", "main"]}
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+      
+    steps:
+
+      - name: GitHub Metrics - Stargazers
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          config_timezone: America/New_York
+          filename: metrics.plugin.stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          #output_action: gist
+          #committer_gist: ${{ secrets.METRICS_TOKEN }}
+          commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+          plugin_stargazers_days: 0
+          output_condition: data-changed
+          config_display: regular
+          retries: 3
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
+
+
+      - name: GitHub Metrics - Stargazers Worldmap
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          config_timezone: America/New_York
+          filename: metrics.plugin.stargazers.worldmap.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+          plugin_stargazers_worldmap_sample: 200
+          output_condition: data-changed
+          config_display: regular
+          retries: 3
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30

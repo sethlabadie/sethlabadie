@@ -1,10 +1,10 @@
-# Visit # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md for full reference
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 
-name: GitHub Metrics - WakaTime
+name: GitHub Metrics - Topics
 
 on:
   # Schedule daily updates
-  schedule: [{cron: "11 2 * * *"}] # Runs at 02:11 America/New_York every day
+  schedule: [{cron: "46 1 * * *"}] # Runs at 01:46 America/New_York every day
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -20,21 +20,21 @@ jobs:
       
     steps:
           
-      - name: GitHub Metrics - WakaTime
+      - name: GitHub Metrics - Topics
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           config_timezone: America/New_York
-          filename: metrics.plugin.wakatime.svg
-          token: ${{ secrets.WAKATIME_TOKEN }}
+          filename: metrics.plugin.topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           #output_action: gist
           #committer_gist: ${{ secrets.METRICS_TOKEN }}
           commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
-          plugin_wakatime_user: sethlabadie
-          plugin_wakatime_days: 365
-          plugin_wakatime_limit: 10
-          plugin_wakatime_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
-          plugin_wakatime_sections: projects, languages, editors, os
+          base: ""
+          plugin_topics: yes
+          plugin_topics_sort: activity
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
           output_condition: data-changed
           config_display: regular
           retries: 3
