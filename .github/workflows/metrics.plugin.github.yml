@@ -30,12 +30,12 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           base_hireable: yes
+          output_condition: data-changed
+          config_display: regular
           retries: 3
           retries_delay: 300
           retries_output_action: 5
           retries_delay_output_action: 120
-          output_condition: data-changed
-          config_display: regular
           
 
       - name: GitHub Metrics - Languages, Contributions, Discussions, Topics
@@ -66,7 +66,11 @@ jobs:
           plugin_topics_mode: icons
           output_condition: data-changed
           config_display: regular
-
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
 
       - name: Achievements
         if: ${{ success() || failure() }}
@@ -82,7 +86,11 @@ jobs:
           plugin_achievements_display: regular
           output_condition: data-changed
           config_display: regular
-
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
 
       - name: Sponsors
         if: ${{ success() || failure() }}
@@ -100,7 +108,11 @@ jobs:
           plugin_sponsorships_sections: amount
           output_condition: data-changed
           config_display: regular
-
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
 
       - name: Stargazers
         if: ${{ success() || failure() }}
@@ -112,7 +124,11 @@ jobs:
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_days: 0
-
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
 
       - name: Stargazers Worldmap
         if: ${{ success() || failure() }}
@@ -130,7 +146,12 @@ jobs:
           plugin_stargazers_days: 0
           output_condition: data-changed
           config_display: regular
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
 
+          
       - name: Stargazers Combined
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -147,9 +168,11 @@ jobs:
           plugin_stargazers_days: 0
           output_condition: data-changed
           config_display: regular
-          output_condition: data-changed
-          config_display: regular
-
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
 
       - name: GitHub Metrics - Introduction
         if: ${{ success() || failure() }}
@@ -181,3 +204,8 @@ jobs:
           retries_delay_output_action: 120
           output_condition: data-changed
           config_display: regular
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
