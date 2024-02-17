@@ -47,7 +47,7 @@ jobs:
           config_timezone: America/New_York
           filename: metrics.plugin.langscontsdisctopics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          config_order: languages, contributions, notable, discussions, topics, achievements, sponsors, stargazers.combined
+          config_order: languages, contributions, notable, discussions, topics, achievements, stargazers.combined, sponsors
           #output_action: gist
           #committer_gist: ${{ secrets.METRICS_TOKEN }}
           base: ""
