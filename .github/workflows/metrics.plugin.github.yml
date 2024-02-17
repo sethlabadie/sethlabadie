@@ -75,16 +75,16 @@ jobs:
           plugin_topics_mode: icons
           plugin_achievements: yes
           plugin_achievements_display: regular
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_worldmap: yes
           plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
           plugin_stargazers_worldmap_sample: 200
           plugin_stargazers_days: 0
+          plugin_sponsors: yes
+          plugin_sponsors_past: yes
+          plugin_sponsorships: yes
+          plugin_sponsorships_sections: amount
           output_condition: data-changed
           config_display: regular
           retries: 3
