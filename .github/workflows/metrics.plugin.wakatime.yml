@@ -27,6 +27,7 @@ jobs:
           config_timezone: America/New_York
           filename: metrics.plugin.wakatime.svg
           token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: sethlabadie
           plugin_wakatime_days: 365
           plugin_wakatime_limit: 10
           plugin_wakatime_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
