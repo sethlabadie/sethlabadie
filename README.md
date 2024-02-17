@@ -5,6 +5,17 @@
 [![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
 [![Website](https://img.shields.io/website?label=sethlabadie.dev&url=https%3A%2F%2Fsethlabadie.dev)](https://sethlabadie.dev)
 
+<!--- Daily.dev card --->
+<div align="left">
+  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
+    <img
+      width="300"
+      align="right"
+      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.png"
+      alt="Seth Labadie's Daily.Dev Card"
+    />
+  </a>
+</div>
 
 ### Hi there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Seth Labadie
 [//]: # (🚨 My blog: [Blog Name]parens https://sethlabadie.dev parens)
@@ -20,65 +31,32 @@
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
 - 💬 Ask me about the military, using Data Science to improve National Security
 - ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
-
-
-
-<!---
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-
 <br />
 <br />
---->
-
-
-
-
-<div align="left">
-  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.png"
-      alt="Seth Labadie's Daily.Dev Card"
-    />
-  </a>
-</div>
-
-
-![Metrics](https://metrics.lecoq.io/sethlabadie?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&introduction=false&introduction.title=true&config.timezone=America%2FNew_York&config.octicon=true)
-
-
-[//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
-![Introduction](/metrics.plugin.base.svg)
-![Metrics](/metrics.plugin.langscontsdisctopics.svg)
-![Stargazers](/metrics.plugin.stargazers.combined.svg)
-![Achievements](/metrics.plugin.achievements.svg)
-![Contributions](/metrics.plugin.contributions.svg)
-![Sponsors](/metrics.plugin.sponsors.svg)
 
 
 ---
 ## My GitHub stats
+<!--- GitHub Metrics --->
+[//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
+![Introduction](/metrics.plugin.base.svg)
+![Metrics](/metrics.plugin.langscontsdisctopics.svg)
+![Stargazers](/metrics.plugin.stargazers.combined.svg)
 
+<!--- GitHub Stats --->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="top" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&include_all_commits=true&theme=dark&card_width=160&show=reviews,discussions_started,discussions_answered"  /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=10&card_width=160&custom_title=Most-Used%20Languages" /></a> |
 | ------------- | ------------- |
 
-![Languages In-Depth](/metrics.plugin.languages.indepth.svg)
+![Languages In-Depth](/metrics.plugin.languages.in-depth.svg)
 ![Languages Recent](/metrics.plugin.languages.recent.svg)
+
+
+
+
+
+
+
 
 
 ---
@@ -148,17 +126,33 @@ An HTML version of a table:
   </tr>
 </table>
 
-
 --->
 
-<!--this is an in-line comment-->
-[//]: # (This is a comment.)
-=======
+
+<!---
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+--->
+
+
+
 
 <!--this is an in-line comment-->
 [//]: # (This is a comment.)
-
-
 
 <!---
 sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
