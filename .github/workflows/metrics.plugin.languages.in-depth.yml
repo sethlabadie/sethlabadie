@@ -17,7 +17,9 @@ jobs:
       name: production
     permissions:
       contents: write
+
     steps:
+      
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.in-depth.svg

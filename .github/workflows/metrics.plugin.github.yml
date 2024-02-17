@@ -36,11 +36,7 @@ jobs:
           retries_delay_output_action: 120
           output_condition: data-changed
           config_display: regular
-          retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
-          output_condition: data-changed
+             output_condition: data-changed
           config_display: regular
           
 
@@ -70,10 +66,6 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
           output_condition: data-changed
           config_display: regular
 
@@ -90,6 +82,8 @@ jobs:
 #          committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
           plugin_achievements_display: regular
+          output_condition: data-changed
+          config_display: regular
 
 
       - name: Sponsors
@@ -106,6 +100,8 @@ jobs:
           plugin_sponsors_past: yes
           plugin_sponsorships: yes
           plugin_sponsorships_sections: amount
+          output_condition: data-changed
+          config_display: regular
 
 
       - name: Stargazers
@@ -134,7 +130,8 @@ jobs:
           plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
           plugin_stargazers_worldmap_sample: 200
           plugin_stargazers_days: 0
-
+          output_condition: data-changed
+          config_display: regular
 
       - name: Stargazers Combined
         if: ${{ success() || failure() }}
@@ -150,3 +147,39 @@ jobs:
           plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
           plugin_stargazers_worldmap_sample: 200
           plugin_stargazers_days: 0
+          output_condition: data-changed
+          config_display: regular
+          output_condition: data-changed
+          config_display: regular
+
+
+      - name: GitHub Metrics - Introduction
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          config_timezone: America/New_York
+          filename: metrics.plugin.introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: sethlabadie
+          plugin_introduction: yes
+          output_condition: data-changed
+          config_display: regular
+
+
+      - name: GitHub Metrics - WakaTime
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          config_timezone: America/New_York
+          filename: metrics.plugin.wakatime.svg
+          token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 365
+          plugin_wakatime_limit: 10
+          plugin_wakatime_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_wakatime_sections: projects, languages, editors, os
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          output_condition: data-changed
+          config_display: regular

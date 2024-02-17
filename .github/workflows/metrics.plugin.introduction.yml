@@ -1,27 +1,31 @@
-  # 
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 
-name: Metrics Introduction
+name: GitHub Metrics Intruduction
 
 on:
   # Schedule daily updates
-  schedule: [{cron: "34 2 * * *"}] # Runs at 00:17 America/New_York every day
+  schedule: [{cron: "22 0 * * *"}] # Runs at 00:17 America/New_York every day
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
   #push: {branches: ["master", "main"]}
-  
+
 jobs:
-  metrics_introduction:
+  metrics:
     runs-on: ubuntu-latest
     environment: 
       name: production
     permissions:
       contents: write
+      
     steps:
-      - uses: lowlighter/metrics@latest
+          
+      - name: GitHub Metrics - Introduction
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
+          config_timezone: America/New_York
           filename: metrics.plugin.introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: sethlabadie
-          base: header
           plugin_introduction: yes
