@@ -135,24 +135,39 @@ jobs:
           retries_delay_output_action: 30
           
           
-      - name: Stargazers Combined
+      - name: Stargazers
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           config_timezone: America/New_York
-          filename: metrics.plugin.stargazers.combined.svg
+          filename: metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
-          plugin_stargazers_days: 0
           output_condition: data-changed
           config_display: regular
           retries: 3
           retries_delay: 60
           retries_output_action: 3
           retries_delay_output_action: 30
-          
+
+
+      - name: Stargazers Worldmap
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          config_timezone: America/New_York
+          filename: metrics.plugin.stargazers.worldmap.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
+          plugin_stargazers_worldmap_sample: 200
+          output_condition: data-changed
+          config_display: regular
+          retries: 3
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
