@@ -185,7 +185,11 @@ jobs:
           plugin_introduction: yes
           output_condition: data-changed
           config_display: regular
-
+          retries: 3
+          retries_delay: 300
+          retries_output_action: 5
+          retries_delay_output_action: 120
+          
 
       - name: GitHub Metrics - WakaTime
         if: ${{ success() || failure() }}
