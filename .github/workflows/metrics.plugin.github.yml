@@ -47,7 +47,7 @@ jobs:
           config_timezone: America/New_York
           filename: metrics.plugin.langscontsdisctopics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          config_order: languages, contributions, notable, discussions, topics, achievements, stargazers.combined, sponsors
+          config_order: languages, topics, achievements, stargazers.combined, notable, discussions, contributions, sponsors
           #output_action: gist
           #committer_gist: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -76,7 +76,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_stargazers: yes
-          plugin_stargazers_charts: yes
+          plugin_stargazers_charts: no
           plugin_stargazers_worldmap: yes
           plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
           plugin_stargazers_worldmap_sample: 200
