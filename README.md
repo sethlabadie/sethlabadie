@@ -22,6 +22,7 @@
 - ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
 
 
+
 <!---
 ### Languages and Tools:
 
@@ -50,7 +51,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.svg"
+      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.png"
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
@@ -60,10 +61,9 @@
 
 
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
-![Metrics](/github-metrics.svg)
-![Stargazers](/metrics.plugin.stargazers.svg)
-![Stargazers World Map](/metrics.plugin.stargazers.worldmap.svg)
-![Starred Topics](/metrics.plugin.topics.icons.svg)
+![Introduction](/metrics.plugin.base.svg)
+![Metrics](/metrics.plugin.langscontsdisctopics.svg)
+![Stargazers](/metrics.plugin.stargazers.combined.svg)
 
 ---
 ## My GitHub stats
