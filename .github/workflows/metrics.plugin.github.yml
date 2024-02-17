@@ -27,15 +27,17 @@ jobs:
           config_timezone: America/New_York
           filename: metrics.plugin.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: sethlabadie
+          plugin_introduction: yes
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           base_hireable: yes
           output_condition: data-changed
           config_display: regular
           retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
           
 
       - name: GitHub Metrics - Languages, Contributions, Discussions, Topics
@@ -67,9 +69,9 @@ jobs:
           output_condition: data-changed
           config_display: regular
           retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
           
 
       - name: Achievements
@@ -87,9 +89,9 @@ jobs:
           output_condition: data-changed
           config_display: regular
           retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
           
 
       - name: Sponsors
@@ -109,9 +111,9 @@ jobs:
           output_condition: data-changed
           config_display: regular
           retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
           
 
       - name: Stargazers
@@ -125,9 +127,9 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_days: 0
           retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
           
 
       - name: Stargazers Worldmap
@@ -147,9 +149,9 @@ jobs:
           output_condition: data-changed
           config_display: regular
           retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
 
           
       - name: Stargazers Combined
@@ -169,9 +171,9 @@ jobs:
           output_condition: data-changed
           config_display: regular
           retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
           
 
       - name: GitHub Metrics - Introduction
@@ -186,26 +188,7 @@ jobs:
           output_condition: data-changed
           config_display: regular
           retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
-          
-
-      - name: GitHub Metrics - WakaTime
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          config_timezone: America/New_York
-          filename: metrics.plugin.wakatime.svg
-          token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 365
-          plugin_wakatime_limit: 10
-          plugin_wakatime_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
-          plugin_wakatime_sections: projects, languages, editors, os
-          output_condition: data-changed
-          config_display: regular
-          retries: 3
-          retries_delay: 300
-          retries_output_action: 5
-          retries_delay_output_action: 120
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
           

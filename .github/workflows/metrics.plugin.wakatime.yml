@@ -4,7 +4,7 @@ name: GitHub Metrics WakaTime
 
 on:
   # Schedule daily updates
-  schedule: [{cron: "32 0 * * *"}] # Runs at 00:17 America/New_York every day
+  schedule: [{cron: "32 1 * * *"}] # Runs at 01:32 America/New_York every day
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -31,3 +31,9 @@ jobs:
           plugin_wakatime_limit: 10
           plugin_wakatime_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           plugin_wakatime_sections: projects, languages, editors, os
+          output_condition: data-changed
+          config_display: regular
+          retries: 3
+          retries_delay: 60
+          retries_output_action: 3
+          retries_delay_output_action: 30
