@@ -40,22 +40,17 @@
 <!--- GitHub Metrics --->
 [//]: # (https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
 ![Introduction](/metrics.plugin.base.svg)
+<br />
 ![Metrics](/metrics.plugin.langscontsdisctopics.svg)
 ![Stargazers](/metrics.plugin.stargazers.combined.svg)
 
+
 <!--- GitHub Stats --->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!---
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="top" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&include_all_commits=true&theme=dark&card_width=160&show=reviews,discussions_started,discussions_answered"  /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=10&card_width=160&custom_title=Most-Used%20Languages" /></a> |
 | ------------- | ------------- |
-
-![Languages In-Depth](/metrics.plugin.languages.in-depth.svg)
-![Languages Recent](/metrics.plugin.languages.recent.svg)
-
-
-
-
-
-
+--->
 
 
 
