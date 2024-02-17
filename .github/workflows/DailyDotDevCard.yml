@@ -28,6 +28,6 @@ jobs:
           filename: DailyDotDevCard.svg
           user_id: ${{ secrets.DEVCARD_ID }}
           retries: 3
-          retries_delay: 300
+          retries_delay: 60
           retries_output_action: 5
           retries_delay_output_action: 120
