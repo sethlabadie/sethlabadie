@@ -54,6 +54,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_other: no
+          commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com
           plugin_languages_skipped: lowlighter/metrics
           plugin_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_details: lines, bytes-size, percentage
@@ -72,7 +73,7 @@ jobs:
           retries_delay: 60
           retries_output_action: 3
           retries_delay_output_action: 30
-          
+
 
       - name: Achievements
         if: ${{ success() || failure() }}
