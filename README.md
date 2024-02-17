@@ -34,6 +34,22 @@
 <br />
 <br />
 
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://sethlabadie.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://sethlabadie.dev#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/sethlabadie#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/sethlabadier#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/sethlabadie#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/sethlabadie#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sethlabadie#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sethlabadie#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/sethlabadie#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/sethlabadie#gh-dark-mode-only)
 
 ---
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
