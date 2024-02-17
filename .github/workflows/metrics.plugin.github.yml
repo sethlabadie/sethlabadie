@@ -56,7 +56,7 @@ jobs:
           plugin_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_threshold: 2
+          plugin_languages_threshold: 8
           plugin_languages_limit: 10
           plugin_languages_recent_days: 14
           plugin_notable: yes
