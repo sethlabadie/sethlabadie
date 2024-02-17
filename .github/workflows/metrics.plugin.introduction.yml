@@ -1,6 +1,6 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 
-name: GitHub Metrics Intruduction
+name: GitHub Metrics Introduction
 
 on:
   # Schedule daily updates
