@@ -36,8 +36,6 @@ jobs:
           retries_delay_output_action: 120
           output_condition: data-changed
           config_display: regular
-          output_condition: data-changed
-          config_display: regular
           
 
       - name: GitHub Metrics - Languages, Contributions, Discussions, Topics
