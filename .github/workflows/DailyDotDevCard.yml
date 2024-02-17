@@ -26,7 +26,7 @@ jobs:
         with:
           config_timezone: America/New_York
           filename: DailyDotDevCard.svg
-          devcard_id: ${{ secrets.DEVCARD_ID }}
+          user_id: ${{ secrets.DEVCARD_ID }}
           retries: 3
           retries_delay: 300
           retries_output_action: 5
