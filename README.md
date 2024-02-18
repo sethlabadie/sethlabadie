@@ -35,8 +35,6 @@
 - ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
 <br />
 
-<br />
-
 ### Connect with me
 
 [![website](./assets/globe-light.svg)](https://sethlabadie.dev#gh-light-mode-only)
