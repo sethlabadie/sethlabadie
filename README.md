@@ -83,6 +83,17 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 February 2024 - To: 17 February 2024
+
+sh            3 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.32 %
+Other         3 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   27.99 %
+YAML          2 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+Bash          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+XML           24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+```
+
 <!--END_SECTION:waka-->
 
 
