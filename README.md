@@ -77,6 +77,17 @@
 ![Seth's WakaTime Stats](./metrics.plugin.wakatime.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 February 2024 - To: 17 February 2024
+
+sh            3 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.32 %
+Other         3 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   27.99 %
+YAML          2 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+Bash          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+XML           24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
@@ -101,6 +112,11 @@
 -->
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Tips to use Watson Discovery](https://pemtajo.medium.com/4-tips-to-use-watson-discovery-802f3c568315?source=rss-bb908bda42e------2)
+- [Adding badges to your Github profile](https://dev.to/pemtajo/how-to-improve-your-github-profile-by-adding-badges-gib)
+- [How to improve your Github profile by adding badges](https://pemtajo.medium.com/how-to-improve-your-github-profile-by-adding-badges-2c10363f4f9a?source=rss-bb908bda42e------2)
+- [Good test vs. bad test, como identificar?](https://medium.com/devorando/good-test-bad-test-como-identificar-ffd1d43ca034?source=rss-bb908bda42e------2)
+- [Tokens JWT! o que são? o que comem? onde vivem?](https://medium.com/devorando/tokens-jwt-o-que-s%C3%A3o-o-que-comem-onde-vivem-f4e85ad37876?source=rss-bb908bda42e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
