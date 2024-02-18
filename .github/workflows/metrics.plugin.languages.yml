@@ -3,17 +3,14 @@
 name: GitHub Metrics - Languages
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "12 2 * * *"}] # Runs at 02:12 America/New_York every day
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  #push: {branches: ["master", "main"]}
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
@@ -34,19 +31,21 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_other: no
-          plugin_languages_skipped: lowlighter/metrics
-          plugin_languages_ignored: >-
-            html, css, scss, svg, png, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_ignored: html, css, scss, Jupyter Notebook, svg, png, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_skipped: fireship-io-git-sticker, js-sticker, Complete-Python-3-Bootcamp, Plotly-Dashboards-with-Dash, Python-Narrative-Journey, readme-generator, installfest, Code-Platoon-Curriculum---Oscar-Platoon, foundations_for_deep_learning, ISLR-python, lowlighter/metrics
           # plugin_languages_aliases: javascript:JS typescript:TS
+          plugin_languages_colors: github
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: lines, bytes-size, percentage
-          #plugin_languages_categories: data, markup, programming, prose
-          #plugin_languages_recent_categories: data, markup, programming, prose
+          plugin_languages_categories: data, markup, programming, prose
+          plugin_languages_recent_categories: data, markup, programming, prose
           plugin_languages_recent_load: 1000
           plugin_languages_recent_days: 30
           plugin_languages_threshold: 0
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 30
+          optimize: css, xml, svg
+          experimental_features: --optimize-svg
           output_condition: data-changed
           config_display: regular
           retries: 3

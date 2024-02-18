@@ -3,12 +3,9 @@
 name: GitHub Metrics - Contributions
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "52 1 * * *"}] # Runs at 01:52 America/New_York every day
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  #push: {branches: ["master", "main"]}
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   metrics:
@@ -32,6 +29,8 @@ jobs:
           commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
           base: ""
           plugin_notable: yes
+          optimize: css, xml, svg
+          experimental_features: --optimize-svg
           output_condition: data-changed
           config_display: regular
           retries: 3

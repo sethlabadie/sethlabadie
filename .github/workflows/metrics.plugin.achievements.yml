@@ -3,12 +3,9 @@
 name: GitHub Metrics - Achievements
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "29 0 * * *"}] # Runs at 00:29 America/New_York every day
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  #push: {branches: ["master", "main"]}
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   metrics:
@@ -36,6 +33,8 @@ jobs:
           plugin_languages_other: no
           plugin_achievements: yes
           plugin_achievements_display: compact
+          optimize: css, xml, svg
+          experimental_features: --optimize-svg
           output_condition: data-changed
           config_display: regular
           retries: 3

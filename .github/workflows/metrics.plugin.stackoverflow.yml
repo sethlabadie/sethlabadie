@@ -3,17 +3,14 @@
 name: StackOverflow
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "55 2 * * *"}] # Runs at 02:55 America/New_York every day
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  #push: {branches: ["master", "main"]}
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
@@ -37,6 +34,8 @@ jobs:
           plugin_stackoverflow_limit: 2 # Display limit (entries per section)
           #plugin_stackoverflow_lines: 4 # Display limit (lines per questions and answers)
           #plugin_stackoverflow_lines_snippet: 2 # Display limit (lines per code snippets)
+          optimize: css, xml, svg
+          experimental_features: --optimize-svg
           output_condition: data-changed
           config_display: regular
           retries: 3

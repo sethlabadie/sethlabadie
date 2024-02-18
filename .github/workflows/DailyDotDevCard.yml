@@ -3,12 +3,9 @@
 name: DailyDotDevCard
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "44 1 * * *"}] # Runs at 01:44 America/New_York every day
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  #push: {branches: ["master", "main"]}
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   DailyDotDevCard:
@@ -24,10 +21,4 @@ jobs:
         if: ${{ success() || failure() }}
         uses: dailydotdev/action-devcard@3.0.0
         with:
-          config_timezone: America/New_York
-          filename: DailyDotDevCard.png
           user_id: ${{ secrets.DEVCARD_ID }}
-          retries: 3
-          retries_delay: 60
-          retries_output_action: 5
-          retries_delay_output_action: 120

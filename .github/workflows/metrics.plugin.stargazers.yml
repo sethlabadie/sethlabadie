@@ -3,17 +3,14 @@
 name: GitHub Metrics - Stargazers
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "07 1 * * *"}] # Runs at 01:07 America/New_York every day
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  #push: {branches: ["master", "main"]}
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
-    environment: 
+    environment:
       name: production
     permissions:
       contents: write
@@ -33,7 +30,9 @@ jobs:
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts: no
-          plugin_stargazers_days: 0
+          plugin_stargazers_days: 30
+          optimize: css, xml, svg
+          experimental_features: --optimize-svg
           output_condition: data-changed
           config_display: regular
           retries: 3

@@ -1,12 +1,9 @@
 name: Update WakaTime Stats
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "44 2 * * *"}] # Runs at 02:44 America/New_York every day
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  #push: {branches: ["master", "main"]}
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   update-readme:
@@ -21,18 +18,10 @@ jobs:
         if: ${{ success() || failure() }}
         uses: athul/waka-readme@master
         with:
-          config_timezone: America/New_York
-          filename: metrics.plugin.wakatime.svg
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           #output_action: gist
           #committer_gist: ${{ secrets.METRICS_TOKEN }}
-          commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
           SHOW_TIME: true
           SHOW_TITLE: true
-          output_condition: data-changed
-          config_display: regular
-          retries: 3
-          retries_delay: 60
-          retries_output_action: 3
-          retries_delay_output_action: 30
+

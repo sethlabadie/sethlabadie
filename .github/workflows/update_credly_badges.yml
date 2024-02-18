@@ -3,12 +3,9 @@
 name: Update Credly Badges
 
 on:
-  # Schedule daily updates
   schedule: [{cron: "23 3 * * *"}] # Runs at 03:23 America/New_York every day
-  # (optional) Run workflow manually
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
-  # (optional) Run workflow when pushing on master/main
-  #push: {branches: ["master", "main"]}
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   update_credly_badges:
@@ -24,17 +21,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: pemtajo/badge-readme@main
         with:
-          config_timezone: America/New_York
-          filename: credly.svg
           CREDLY_USER: seth-labadie # optional, but default will use the same from github
-          token: NOT_NEEDED
           #output_action: gist
           #committer_gist: ${{ secrets.METRICS_TOKEN }}
-          commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
-          user: sethlabadie
-          output_condition: data-changed
-          config_display: regular
-          retries: 3
-          retries_delay: 60
-          retries_output_action: 3
-          retries_delay_output_action: 30
+

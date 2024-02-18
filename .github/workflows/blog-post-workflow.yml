@@ -1,16 +1,26 @@
 name: Latest blog post workflow
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        if: ${{ success() || failure() }}
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        if: ${{ success() || failure() }}
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/codestackr"
+          feed_list: "https://dev.to/feed/pemtajo, https://medium.com/feed/@pemtajo, https://dev.to/feed/codestackr, https://dev.to/feed/gautamkrishnar, https://www.gautamkrishnar.com/feed/"
