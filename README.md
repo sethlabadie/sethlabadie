@@ -18,7 +18,9 @@
 </div>
 
 ### Hi there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Seth Labadie
-[//]: # (🚨 My blog: [Blog Name]parens https://sethlabadie.dev parens)
+
+
+
 - 👀 I’m interested in improving national security through data science
 - 🔭 I’m currently working on databases, data migration, data cleaning, and data dictionaries
 - 🌱 I’m currently learning various Python packages, DevOps, Docker, Artificial Intelligence, Machine Learning
@@ -27,32 +29,34 @@
 - 🐕 Proud owner of Argo
   <!--- 💍 Married to Martha-->
 - 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
-- 📫 How to reach me: sethlabadie@gmail.com
+- 📫 How to reach me: <sethlabadie@gmail.com>
 - 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
 - 💬 Ask me about the military, using Data Science to improve National Security
 - ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
 <br />
+
 <br />
 
-### Connect with me:
+### Connect with me
 
-[![website](./img/globe-light.svg)](https://sethlabadie.dev#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://sethlabadie.dev#gh-dark-mode-only)
+[![website](./assets/globe-light.svg)](https://sethlabadie.dev#gh-light-mode-only)
+[![website](./assets/globe-dark.svg)](https://sethlabadie.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/sethlabadie#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/sethlabadier#gh-dark-mode-only)
+[![website](./assets/youtube-light.svg)](https://youtube.com/sethlabadie#gh-light-mode-only)
+[![website](./assets/youtube-dark.svg)](https://youtube.com/sethlabadier#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/sethlabadie#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/sethlabadie#gh-dark-mode-only)
+[![website](./assets/twitter-light.svg)](https://twitter.com/sethlabadie#gh-light-mode-only)
+[![website](./assets/twitter-dark.svg)](https://twitter.com/sethlabadie#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sethlabadie#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sethlabadie#gh-dark-mode-only)
+[![website](./assets/linkedin-light.svg)](https://linkedin.com/in/sethlabadie#gh-light-mode-only)
+[![website](./assets/linkedin-dark.svg)](https://linkedin.com/in/sethlabadie#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/sethlabadie#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/sethlabadie#gh-dark-mode-only)
+[![website](./assets/instagram-light.svg)](https://instagram.com/sethlabadie#gh-light-mode-only)
+[![website](./assets/instagram-dark.svg)](https://instagram.com/sethlabadie#gh-dark-mode-only)
 
 ---
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
+
+<h2> My GitHub Metrics <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 
 <!--- GitHub Metrics --->
 
@@ -60,125 +64,55 @@
 ![Starred Topics](metrics.plugin.starred-topics.icons.svg)
 ![Metrics](metrics.plugin.languages.in-depth.svg)
 ![Stargazers](metrics.plugin.languages.recent.svg)
-
 <br />
-<!--- GitHub Stats --->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!---
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="top" src="https://github-readme-stats.vercel.app/api/?username=sethlabadie&show_icons=true&include_all_commits=true&theme=dark&card_width=160&show=reviews,discussions_started,discussions_answered"  /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethlabadie&layout=compact&theme=dark&langs_count=10&card_width=160&custom_title=Most-Used%20Languages" /></a> |
-| ------------- | ------------- |
---->
-
-
 
 ---
+
 ## My WakaTime Coding Stats
 
-
 <!--- from https://github.com/anuraghazra/github-readme-stats --->
+
 [![Seth's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark&hide=Other,INI,Smarty)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Seth's WakaTime Stats](/metrics.plugin.wakatime.svg)
-
+![Seth's WakaTime Stats](./metrics.plugin.wakatime.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
 ---
+
 <h2> Technologies Which Interest Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+<!--
+---
+## My Blog Posts
+-->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-
-<!---
 ---
-## Top Repositories
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img height=100 align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sethlabadie&repo=sethlabadie&layout=compact&theme=dark" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=100 align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sethlabadie&repo=sethlabadie.github.io&layout=compact&theme=dark" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=100 align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=sethlabadie&repo=Setup&layout=compact&theme=dark" /></a>
-| ------------- | ------------- | ------------- |
---->
-
-
----
 ## View my verified badges on Credly
+
 <!--START_SECTION:badges-->
+
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46 "AWS Academy Graduate - AWS Academy Cloud Foundations")
+
 <!--END_SECTION:badges-->
 
-
-<!---
-[![Seth's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sethlabadie&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/sethlabadie)
-
-![Seth's GitHub activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sethlabadie&theme=transparent)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sethlabadie&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sethlabadie&theme=default) &nbsp;&nbsp;&nbsp;  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sethlabadie&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sethlabadie&theme=default)  &nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sethlabadie&theme=default&utcOffset=8)
-
-### Courses
-
-| Topic                                | Start          | End           | Done  |
-|--------------------------------------|----------------|---------------|-------|
-| Introduction to Programming (Python) | October 2021   | December 2022 | ✅     |
-| Introduction to Cloud                | January 2023   | February 2023 | ✅     |
-
-
-another table example:
-
-| Properties               | Label                  | Value                               | Required | Default                     | Description                                                                                                      |
-| ------------------------ | ---------------------- | ----------------------------------- | -------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| `openAiApiKey`           | OpenAI API Key         | `string`                            | `true`   | `empty`                     | Your personal OpenAI API key                                                                                     |    
-| `openAiBasePath`         | OpenAI Base Path       | `string`                            | `false`  | `empty`                     | Custom API basepath                                                                                              |
-
-
-An HTML version of a table:
-<table>
-  <tr>
-    <td><a href="https://travis-ci.org/"><strong>Travis CI</strong></a><p><sup>(build status)</sup></p></td>
-    <td><img src="http://f.cl.ly/items/2H233M0I0T43313c3h0C/Screen%20Shot%202013-01-30%20at%202.45.30%20AM.png" alt="Travis CI badge"></td>
-  </tr>
-  <tr>
-    <td><a href="https://gemnasium.com/"><strong>Gemnasium</strong></a><p><sup>(dependency checks)</sup></p></td>
-    <td><img src="http://f.cl.ly/items/2j1D2R0q2C3s1x2y3k09/Screen%20Shot%202013-01-30%20at%202.46.10%20AM.png" alt="Gemnasium badge"></td>
-  </tr>
-</table>
-
---->
-
-
-<!---
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
---->
-
-
-
-
-<!--this is an in-line comment-->
-[//]: # (This is a comment.)
 
 <!---
 sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

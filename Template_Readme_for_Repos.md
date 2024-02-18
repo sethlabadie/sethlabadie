@@ -1,7 +1,0 @@
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/sethlabadie/sethlabadie?logo=github&style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/sethlabadie/sethlabadie?logo=github&style=plastic)
-![GitHub manifest version](https://img.shields.io/github/manifest-json/v/sethlabadie/sethlabadie?logo=github&style=plastic)
-![GitHub Release](https://img.shields.io/github/v/release/sethlabadie/sethlabadie?logo=github&style=plastic)
-![GitHub Tag](https://img.shields.io/github/v/tag/sethlabadie/sethlabadie?logo=github&style=plastic)
-![Read the Docs](https://img.shields.io/readthedocs/packageName&style=plastic?logo=readthedocs)
-![Read the Docs (version)](https://img.shields.io/readthedocs/:packageName/:version&style=plastic?logo=readthedocs)
