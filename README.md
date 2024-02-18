@@ -43,7 +43,7 @@
 [![website](./assets/globe-dark.svg)](https://sethlabadie.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./assets/youtube-light.svg)](https://youtube.com/sethlabadie#gh-light-mode-only)
-[![website](./assets/youtube-dark.svg)](https://youtube.com/sethlabadier#gh-dark-mode-only)
+[![website](./assets/youtube-dark.svg)](https://youtube.com/sethlabadie#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./assets/twitter-light.svg)](https://twitter.com/sethlabadie#gh-light-mode-only)
 [![website](./assets/twitter-dark.svg)](https://twitter.com/sethlabadie#gh-dark-mode-only)
