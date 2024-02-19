@@ -113,6 +113,12 @@ XML           24 mins         █░░░░░░░░░░░░░░░�
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+
+<!---Stack Exchange Flair (https://stackexchange.com/users/7491194/seth-l) (need 200 points to display)
+<a href="https://stackexchange.com/users/7491194/seth-l"><img src="https://stackexchange.com/users/flair/7491194.png" width="208" height="58" alt="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+--->
+
+
 <!---
 ---
 📕 &nbsp;**Latest Blog Posts**
