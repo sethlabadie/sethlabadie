@@ -1,0 +1,21 @@
+name: Check codebase using Sourcery
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  review-with-sourcery:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - uses: sourcery-ai/action@v1
+        with:
+          token: ${{ secrets.SOURCERY_TOKEN }}
+          # target: dir1 dir2 file1.py file2.py # optional; To review only the directories dir1/ and dir2/ along with the files file1.py and file2.py, pass them as space-separated strings:
+          # config: config_files/.my-team-rules.yaml # optional; To use a custom configuration file, pass the path to the file. By default, Sourcery searches the current directory and its parents for a .sourcery.yaml file.

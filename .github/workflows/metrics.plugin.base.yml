@@ -16,7 +16,6 @@ jobs:
       contents: write
       
     steps:
-          
       - name: GitHub Metrics - Base
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest

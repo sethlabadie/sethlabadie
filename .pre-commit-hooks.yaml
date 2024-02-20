@@ -1,0 +1,20 @@
+# Note that we recommend using https://github.com/psf/black-pre-commit-mirror instead
+# This will work about 2x as fast as using the hooks in this repository
+- id: black
+  name: black
+  description: "Black: The uncompromising Python code formatter"
+  entry: black
+  language: python
+  minimum_pre_commit_version: 2.9.2
+  require_serial: true
+  types_or: [python, pyi]
+- id: black-jupyter
+  name: black-jupyter
+  description:
+    "Black: The uncompromising Python code formatter (with Jupyter Notebook support)"
+  entry: black
+  language: python
+  minimum_pre_commit_version: 2.9.2
+  require_serial: true
+  types_or: [python, pyi, jupyter]
+  additional_dependencies: [".[jupyter]"]

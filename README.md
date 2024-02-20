@@ -4,6 +4,12 @@
 [![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
 [![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
 [![Website](https://img.shields.io/website?label=sethlabadie.dev&url=https%3A%2F%2Fsethlabadie.dev)](https://sethlabadie.dev)
+[![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
+
+![Banner](/assets/img/Banner_Labadie.png)
+
+README is a work in progress atm...
+<br />
 
 <!--- Daily.dev card --->
 <div align="left">
@@ -37,20 +43,20 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 ### 🔗 &nbsp;Connect with me
 
-[![website](./assets/globe-light.svg)](https://sethlabadie.dev#gh-light-mode-only)
-[![website](./assets/globe-dark.svg)](https://sethlabadie.dev#gh-dark-mode-only)
+[![website](/assets/img/globe-light.svg)](https://sethlabadie.dev#gh-light-mode-only)
+[![website](/assets/img/globe-dark.svg)](https://sethlabadie.dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./assets/youtube-light.svg)](https://youtube.com/sethlabadie#gh-light-mode-only)
-[![website](./assets/youtube-dark.svg)](https://youtube.com/sethlabadie#gh-dark-mode-only)
+[![website](/assets/img/youtube-light.svg)](https://youtube.com/sethlabadie#gh-light-mode-only)
+[![website](/assets/img/youtube-dark.svg)](https://youtube.com/sethlabadie#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./assets/twitter-light.svg)](https://twitter.com/sethlabadie#gh-light-mode-only)
-[![website](./assets/twitter-dark.svg)](https://twitter.com/sethlabadie#gh-dark-mode-only)
+[![website](/assets/img/twitter-light.svg)](https://twitter.com/sethlabadie#gh-light-mode-only)
+[![website](/assets/img/twitter-dark.svg)](https://twitter.com/sethlabadie#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./assets/linkedin-light.svg)](https://linkedin.com/in/sethlabadie#gh-light-mode-only)
-[![website](./assets/linkedin-dark.svg)](https://linkedin.com/in/sethlabadie#gh-dark-mode-only)
+[![website](/assets/img/linkedin-light.svg)](https://linkedin.com/in/sethlabadie#gh-light-mode-only)
+[![website](/assets/img/linkedin-dark.svg)](https://linkedin.com/in/sethlabadie#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./assets/instagram-light.svg)](https://instagram.com/sethlabadie#gh-light-mode-only)
-[![website](./assets/instagram-dark.svg)](https://instagram.com/sethlabadie#gh-dark-mode-only)
+[![website](/assets/img/instagram-light.svg)](https://instagram.com/sethlabadie#gh-light-mode-only)
+[![website](/assets/img/instagram-dark.svg)](https://instagram.com/sethlabadie#gh-dark-mode-only)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -67,10 +73,10 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 <!--- GitHub Metrics --->
 
-![Introduction](metrics.plugin.base.svg)
-![Starred Topics](metrics.plugin.starred-topics.icons.svg)
-![Metrics](metrics.plugin.languages.in-depth.svg)
-![Stargazers](metrics.plugin.languages.recent.svg)
+![Introduction](/assets/img/metrics.plugin.base.svg)
+![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)
+![Metrics](/assets/img/metrics.plugin.languages.in-depth.svg)
+![Stargazers](/assets/img/metrics.plugin.languages.recent.svg)
 <br />
 
 ---
@@ -81,7 +87,7 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 [![Seth's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark&hide=Other,INI,Smarty)](https://github.com/anuraghazra/github-readme-stats)
 
-![Seth's WakaTime Stats](./metrics.plugin.wakatime.svg)
+![Seth's WakaTime Stats](/assets/img/metrics.plugin.wakatime.svg)
 
 <!--START_SECTION:waka-->
 
