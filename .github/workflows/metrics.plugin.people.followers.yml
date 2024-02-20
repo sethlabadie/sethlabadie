@@ -22,13 +22,12 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           config_timezone: America/New_York
-          filename: metrics.plugin.people.followers.svg
+          filename: /assets/img/metrics.plugin.people.followers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           #output_action: gist
           #committer_gist: ${{ secrets.METRICS_TOKEN }}
           commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
           user: sethlabadie
-          plugin_introduction: yes
           base: ""
           plugin_people: yes
           plugin_people_types: followers

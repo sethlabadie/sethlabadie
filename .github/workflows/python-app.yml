@@ -30,7 +30,7 @@ jobs:
           user: rafnixg
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Lima
+          config_timezone: America/New_York
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -55,9 +55,7 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 2
           plugin_starlists_shuffle_repositories: yes
-  build:
 
-    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
@@ -76,4 +74,25 @@ jobs:
           git config user.email rafnixg@gmail.com
           git add README.md
           git diff --quiet && git diff --staged --quiet || git commit -m "[BOT] Update README with latest info"
+  # build:
+
+  #   runs-on: ubuntu-latest
+
+  #   steps:
+  #     - uses: actions/checkout@v2
+  #     - name: Set up Python 3.12
+  #       uses: actions/setup-python@v2
+  #       with:
+  #         python-version: 3.8
+  #     - name: Install dependencies
+  #       run: |
+  #         python -m pip install --upgrade pip
+  #         pip install -r requirements.txt
+  #     - name: Run script
+  #       run: |
+  #         python app.py
+  #         git config user.name sethlabadie
+  #         git config user.email sethlabadie@gmail.com
+  #         git add README.md
+  #         git diff --quiet && git diff --staged --quiet || git commit -m "[BOT] Update README with latest info"
           git push origin master
