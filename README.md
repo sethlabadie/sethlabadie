@@ -13,7 +13,7 @@ README is a work in progress atm...
 <br />
 
 <!--- Daily.dev card --->
-<div align="right">
+<div align="left">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
     <img
       width="300"
