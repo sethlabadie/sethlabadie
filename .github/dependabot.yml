@@ -3,6 +3,13 @@
 version: 2
 updates:
 
+  # Update node deps
+  #- package-ecosystem: "gomod"
+  #  directory: "/"
+  #  schedule:
+  #    interval: "weekly"
+
+  # Update gh-action deps
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:

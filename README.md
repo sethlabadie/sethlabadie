@@ -11,7 +11,7 @@
     <img
       width="300"
       align="right"
-      src="https://github.com/sethlabadie/sethlabadie/blob/main/devcard.png"
+      src="https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/devcard.png"
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
@@ -113,6 +113,15 @@ Bash          52 mins         █▒░░░░░░░░░░░░░░�
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
+'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
+'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
+'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
+'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
+'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
+architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+
+
 
 <!---Stack Exchange Flair (https://stackexchange.com/users/7491194/seth-l) (need 200 points to display)
 <a href="https://stackexchange.com/users/7491194/seth-l"><img src="https://stackexchange.com/users/flair/7491194.png" width="208" height="58" alt="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
@@ -136,6 +145,13 @@ Bash          52 mins         █▒░░░░░░░░░░░░░░�
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 <!--END_SECTION:badges-->
 
+
+
+- Personal Site: <https://rafnixg.dev>
+- Links: <https://links.rafnixg.dev>
+- CV Resume: <https://resume.rafnixg.dev>
+- Personal Blog: <https://blog.rafnixg.dev>
+- Twitter: <https://twitter.com/rafnixg>
 
 <!---
 sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
