@@ -76,8 +76,19 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 ![Introduction](/assets/img/metrics.plugin.base.svg)
 ![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)
-![Metrics](/assets/img/metrics.plugin.languages.in-depth.svg)
-![Stargazers](/assets/img/metrics.plugin.languages.recent.svg)
+![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)
+![Achievements](/assets/img/metrics.plugin.achievements.svg)
+![Sponsors](/assets/img/metrics.plugin.sponsors.svg)
+![StackOverflow](/assets/img/metrics.plugin.stackoverflow.svg)
+![Contributions](/assets/img/metrics.plugin.contributions.svg)
+![Discussions](/assets/img/metrics.plugin.discussions.svg)
+![Leetcode](/assets/img/metrics.plugin.leetcode.svg)
+![Followers](/assets/img/metrics.plugin.people.followers.svg)
+![Traffic](/assets/img/metrics.plugin.repositories.traffic.svg)
+![Stargazers Combined](/assets/img/metrics.plugin.stargazers.combined.svg)
+![Stargazers](/assets/img/metrics.plugin.stargazers.svg)
+![Stargazers Worldmap](/assets/img/metrics.plugin.stargazers.worldmap.svg)
+![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)
 <br />
 
 ---
