@@ -75,10 +75,10 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 <!--- GitHub Metrics --->
 
-![Followers](/assets/img/metrics.plugin.people.followers.svg)<br />
 ![Introduction](/assets/img/metrics.plugin.base.svg)<br />
 ![Repositories Traffic](/assets/img/metrics.plugin.repositories.traffic.svg)<br />
 ![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)<br />
+![Followers](/assets/img/metrics.plugin.people.followers.svg)<br />
 ![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)<br />
 ![Achievements](/assets/img/metrics.plugin.achievements.svg)<br />
 ![Leetcode](/assets/img/metrics.plugin.leetcode.svg)<br />
