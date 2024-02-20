@@ -27,7 +27,7 @@ jobs:
           #committer_gist: ${{ secrets.METRICS_TOKEN }}
           commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
           user: sethlabadie
-          #plugin_introduction: yes
+          plugin_introduction: yes
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           base_hireable: yes
