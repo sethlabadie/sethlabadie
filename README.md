@@ -8,6 +8,7 @@
 
 ![Banner](/assets/img/Banner_Labadie.png)
 
+<br />
 README is a work in progress atm...
 <br />
 
@@ -153,11 +154,11 @@ architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
 
 
-- Personal Site: <https://rafnixg.dev>
+<!-- - Personal Site: <https://rafnixg.dev>
 - Links: <https://links.rafnixg.dev>
 - CV Resume: <https://resume.rafnixg.dev>
 - Personal Blog: <https://blog.rafnixg.dev>
-- Twitter: <https://twitter.com/rafnixg>
+- Twitter: <https://twitter.com/rafnixg> -->
 
 <!---
 sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
