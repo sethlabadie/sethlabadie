@@ -13,16 +13,19 @@ README is a work in progress atm...
 <br />
 
 <!--- Daily.dev card --->
-<div align="left">
+<div align="right">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
     <img
       width="300"
       align="right"
-      src="https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/devcard.png"
+      src="(/assets/img/Banner_Labadie.png)"
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
 </div>
+
+<!-- src="<https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/devcard.png>" -->
+
 
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
@@ -74,21 +77,18 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 <!--- GitHub Metrics --->
 
-![Introduction](/assets/img/metrics.plugin.base.svg)
-![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)
-![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)
-![Achievements](/assets/img/metrics.plugin.achievements.svg)
-![Sponsors](/assets/img/metrics.plugin.sponsors.svg)
-![StackOverflow](/assets/img/metrics.plugin.stackoverflow.svg)
-![Contributions](/assets/img/metrics.plugin.contributions.svg)
-![Discussions](/assets/img/metrics.plugin.discussions.svg)
-![Leetcode](/assets/img/metrics.plugin.leetcode.svg)
-![Followers](/assets/img/metrics.plugin.people.followers.svg)
-![Traffic](/assets/img/metrics.plugin.repositories.traffic.svg)
-![Stargazers Combined](/assets/img/metrics.plugin.stargazers.combined.svg)
-![Stargazers](/assets/img/metrics.plugin.stargazers.svg)
-![Stargazers Worldmap](/assets/img/metrics.plugin.stargazers.worldmap.svg)
-![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)
+![Introduction](/assets/img/metrics.plugin.base.svg)<br /><br />
+![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)<br /><br />
+![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)<br /><br />
+![Achievements](/assets/img/metrics.plugin.achievements.svg)<br /><br />
+![Sponsors](/assets/img/metrics.plugin.sponsors.svg)<br /><br />
+![StackOverflow](/assets/img/metrics.plugin.stackoverflow.svg)<br /><br />
+![Contributions](/assets/img/metrics.plugin.contributions.svg)<br /><br />
+![Discussions](/assets/img/metrics.plugin.discussions.svg)<br /><br />
+![Leetcode](/assets/img/metrics.plugin.leetcode.svg)<br /><br />
+![Followers](/assets/img/metrics.plugin.people.followers.svg)<br /><br />
+![Traffic](/assets/img/metrics.plugin.repositories.traffic.svg)<br /><br />
+![Stargazers Combined](/assets/img/metrics.plugin.stargazers.combined.svg)<br /><br />
 <br />
 
 ---
