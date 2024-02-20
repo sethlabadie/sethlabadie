@@ -22,7 +22,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           config_timezone: America/New_York
-          filename: metrics.plugin.languages.svg
+          filename: /assets/img/metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           #output_action: gist
           #committer_gist: ${{ secrets.METRICS_TOKEN }}
