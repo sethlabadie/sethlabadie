@@ -22,15 +22,12 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           config_timezone: America/New_York
-          filename: metrics.plugin.achievements.svg
+          filename: assets/img/metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           #output_action: gist
           #committer_gist: ${{ secrets.METRICS_TOKEN }}
           commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
           base: ""
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_other: no
           plugin_achievements: yes
           plugin_achievements_display: compact
           optimize: css, xml, svg

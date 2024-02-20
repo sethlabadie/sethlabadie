@@ -30,7 +30,7 @@ jobs:
           user: rafnixg
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Lima
+          config_timezone: America/New_York
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -55,9 +55,7 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 2
           plugin_starlists_shuffle_repositories: yes
-  build:
 
-    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
