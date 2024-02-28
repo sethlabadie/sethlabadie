@@ -12,6 +12,77 @@
 README is a work in progress atm...
 <br />
 
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
+
+- 👀 I’m interested in improving national security through data science
+- 🔭 I’m currently working on databases, data migration, data cleaning, and data dictionaries
+- 🌱 I’m currently learning various Python packages, DevOps, Docker, Artificial Intelligence, Machine Learning
+- 👯 I’m looking to collaborate on improving skills in Python and Data Science
+- 🚀 Data Scientist at [NNData](https://www.nndata.com)
+- 🐕 Proud owner of Argo
+  <!--- 💍 Married to Martha-->
+- 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
+- 📫 How to reach me: <sethlabadie@gmail.com>
+- 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
+- 💬 Ask me about the military, using Data Science to improve National Security
+- ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
+<br />
+  </div>
+  <div class="column">
+    <!--- Daily.dev card --->
+    [![Daily.Dev Card](/devcard.png)](https://app.daily.dev/sethlabadie)
+    <div align="left">
+  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
+    <img
+      width="300"
+      align="right"
+      src="<https://github.com/sethlabadie/sethlabadie/blob/main/devcard.png>"
+      alt="Seth Labadie's Daily.Dev Card"
+    />
+  </a>
+</div>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
 <!--- Daily.dev card --->
 <div align="left">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
