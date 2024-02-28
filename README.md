@@ -15,19 +15,12 @@ README is a work in progress atm...
 
 
 <!--- Daily.dev card --->
-<a href="https://app.daily.dev/sethlabadie">
-  <img
-    width="356"
-    src="https://api.daily.dev/devcards/v2/BiDSECVhUxmd1tvIxeqCU.png?type=default&r=lod"  alt="Seth Labadie's Daily.Dev Card"/></a>
-
-
-<!--- Daily.dev card --->
 <div align="left">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
     <img
       width="300"
       align="right"
-      src="<https://github.com/sethlabadie/sethlabadie/devcard.png>"
+      src="https://raw.githubusercontent.com/sethlabadie/sethlabadie/devcard/devcard.png"
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
@@ -73,11 +66,11 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://dev.to/sethlabadie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://dev.to/sethlabadie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sethlabadie" height="30" width="40" /></a>
+<a href="https://twitter.com/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sethlabadie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sethlabadie" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5692844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5692844" height="30" width="40" /></a>
+<a href="https://instagram.com/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sethlabadie" height="30" width="40" /></a>
 
 
 ---
@@ -139,6 +132,7 @@ Python     49 mins         ███░░░░░░░░░░░░░░�
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+
 'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
 'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
 'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
@@ -149,8 +143,8 @@ architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
 
 
-<!---Stack Exchange Flair (https://stackexchange.com/users/7491194/seth-l) (need 200 points to display)
-<a href="https://stackexchange.com/users/7491194/seth-l"><img src="https://stackexchange.com/users/flair/7491194.png" width="208" height="58" alt="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<!---Stack Exchange Flair (https://stackexchange.com/users/5692844/seth-l) (need 200 points to display)
+<a href="https://stackexchange.com/users/5692844/seth-l"><img src="https://stackexchange.com/users/flair/5692844.png" width="208" height="58" alt="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 --->
 
 
@@ -169,6 +163,7 @@ architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 ## My Holopin Badges
 
 [![Holopin](https://holopin.me/sethlabadie)](https://holopin.io/@sethlabadie)
+[![@ombratteng's Holopin board](https://holopin.io/api/user/board?user=ombratteng)](https://holopin.io/@ombratteng)
 -->
 
 ---
