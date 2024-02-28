@@ -78,7 +78,6 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 <!--- GitHub Metrics --->
 
 ![Introduction](/assets/img/metrics.plugin.base.svg)<br />
-![Repositories Traffic](/assets/img/metrics.plugin.repositories.traffic.svg)<br />
 ![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)<br />
 ![Followers](/assets/img/metrics.plugin.people.followers.svg)<br />
 ![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)<br />
@@ -155,6 +154,14 @@ architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
 <!-- BLOG-POST-LIST:END -->
 
+
+<!--
+---
+## My Holopin Badges
+
+[![Holopin](https://holopin.me/sethlabadie)](https://holopin.io/@sethlabadie)
+-->
+
 ---
 
 ## View my verified badges on Credly
@@ -163,6 +170,9 @@ architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 <!--END_SECTION:badges-->
 
+
+<!---
+-->
 
 
 <!-- - Personal Site: <https://rafnixg.dev>
