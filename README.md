@@ -53,19 +53,10 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 - ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
 <br />
   </div>
+
   <div class="column">
     <!--- Daily.dev card --->
-    [![Daily.Dev Card](/devcard.png)](https://app.daily.dev/sethlabadie)
-    <div align="left">
-  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
-    <img
-      width="300"
-      align="right"
-      src="<https://github.com/sethlabadie/sethlabadie/blob/main/devcard.png>"
-      alt="Seth Labadie's Daily.Dev Card"
-    />
-  </a>
-</div>
+[![Daily.Dev Card](/devcard.png)](https://app.daily.dev/sethlabadie)
   </div>
 </div>
 
