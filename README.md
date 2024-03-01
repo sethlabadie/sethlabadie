@@ -1,4 +1,4 @@
-[![GitHub Followers](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
+aba[![GitHub Followers](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/sethlabadie?logo=github&style=plastic)
 [![Linkedin Badge](https://img.shields.io/badge/-sethlabadie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethlabadie/)
 [![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
@@ -16,14 +16,12 @@ README is a work in progress atm...
 
 <!--- Daily.dev card --->
 
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/sssets/img/devcard.png' align='left'>
-
-<div align="left">
+<div align="right">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
     <img
       width="300"
       align="right"
-      src="https://raw.githubusercontent.com/sethlabadie/sethlabadie/devcard/devcard.png"
+      src="https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/devcard.png"
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
