@@ -15,6 +15,9 @@ README is a work in progress atm...
 
 
 <!--- Daily.dev card --->
+
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/sssets/img/devcard.png' align='left'>
+
 <div align="left">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
     <img
