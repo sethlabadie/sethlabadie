@@ -13,10 +13,10 @@ README is a work in progress atm...
 <br />
 <br />
 
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <!--- Daily.dev card --->
-
-<div align="right">
+<div align="left">
   <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
     <img
       width="300"
@@ -26,10 +26,6 @@ README is a work in progress atm...
     />
   </a>
 </div>
-
-
-
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
