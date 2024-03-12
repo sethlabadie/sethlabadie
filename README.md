@@ -1,4 +1,4 @@
-[![GitHub Followers](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
+aba[![GitHub Followers](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/sethlabadie?logo=github&style=plastic)
 [![Linkedin Badge](https://img.shields.io/badge/-sethlabadie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethlabadie/)
 [![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
@@ -11,6 +11,9 @@
 <br />
 README is a work in progress atm...
 <br />
+<br />
+
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <!--- Daily.dev card --->
 <div align="left">
@@ -18,13 +21,11 @@ README is a work in progress atm...
     <img
       width="300"
       align="right"
-      src="<https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/devcard.png>"
+      src="https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/devcard.png"
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
 </div>
-
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
@@ -62,11 +63,11 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://dev.to/sethlabadie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://dev.to/sethlabadie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sethlabadie" height="30" width="40" /></a>
+<a href="https://twitter.com/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sethlabadie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sethlabadie" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5692844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5692844" height="30" width="40" /></a>
+<a href="https://instagram.com/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sethlabadie" height="30" width="40" /></a>
 
 
 ---
@@ -75,18 +76,17 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 <!--- GitHub Metrics --->
 
-![Introduction](/assets/img/metrics.plugin.base.svg)<br /><br />
-![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)<br /><br />
-![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)<br /><br />
-![Achievements](/assets/img/metrics.plugin.achievements.svg)<br /><br />
-![Sponsors](/assets/img/metrics.plugin.sponsors.svg)<br /><br />
-![StackOverflow](/assets/img/metrics.plugin.stackoverflow.svg)<br /><br />
-![Contributions](/assets/img/metrics.plugin.contributions.svg)<br /><br />
-![Discussions](/assets/img/metrics.plugin.discussions.svg)<br /><br />
-![Leetcode](/assets/img/metrics.plugin.leetcode.svg)<br /><br />
-![Followers](/assets/img/metrics.plugin.people.followers.svg)<br /><br />
-![Traffic](/assets/img/metrics.plugin.repositories.traffic.svg)<br /><br />
-![Stargazers Combined](/assets/img/metrics.plugin.stargazers.combined.svg)<br /><br />
+![Introduction](/assets/img/metrics.plugin.base.svg)<br />
+![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)<br />
+![Followers](/assets/img/metrics.plugin.people.followers.svg)<br />
+![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)<br />
+![Achievements](/assets/img/metrics.plugin.achievements.svg)<br />
+![Leetcode](/assets/img/metrics.plugin.leetcode.svg)<br />
+![StackOverflow](/assets/img/metrics.plugin.stackoverflow.svg)<br />
+![Contributions](/assets/img/metrics.plugin.contributions.svg)<br />
+![Discussions](/assets/img/metrics.plugin.discussions.svg)<br />
+![Stargazers Combined](/assets/img/metrics.plugin.stargazers.combined.svg)<br />
+<!---![Sponsors](/assets/img/metrics.plugin.sponsors.svg)<br /><br /> --->
 <br />
 
 ---
@@ -102,13 +102,10 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
+From: 03 March 2024 - To: 10 March 2024
 
-YAML          5 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   33.70 %
-sh            4 hrs 7 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
-Other         3 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
-Markdown      1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Bash          52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+HTML   14 mins         ████████████████████████▓   98.46 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
@@ -129,6 +126,7 @@ Bash          52 mins         █▒░░░░░░░░░░░░░░�
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+
 'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
 'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
 'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
@@ -139,8 +137,8 @@ architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
 
 
-<!---Stack Exchange Flair (https://stackexchange.com/users/7491194/seth-l) (need 200 points to display)
-<a href="https://stackexchange.com/users/7491194/seth-l"><img src="https://stackexchange.com/users/flair/7491194.png" width="208" height="58" alt="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<!---Stack Exchange Flair (https://stackexchange.com/users/5692844/seth-l) (need 200 points to display)
+<a href="https://stackexchange.com/users/5692844/seth-l"><img src="https://stackexchange.com/users/flair/5692844.png" width="208" height="58" alt="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Seth L. on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 --->
 
 
@@ -153,6 +151,15 @@ architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
 <!-- BLOG-POST-LIST:END -->
 
+
+<!--
+---
+## My Holopin Badges
+
+[![Holopin](https://holopin.me/sethlabadie)](https://holopin.io/@sethlabadie)
+[![@ombratteng's Holopin board](https://holopin.io/api/user/board?user=ombratteng)](https://holopin.io/@ombratteng)
+-->
+
 ---
 
 ## View my verified badges on Credly
@@ -161,6 +168,9 @@ architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 <!--END_SECTION:badges-->
 
+
+<!---
+-->
 
 
 <!-- - Personal Site: <https://rafnixg.dev>

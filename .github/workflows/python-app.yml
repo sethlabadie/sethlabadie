@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: rafnixg
+          user: sethlabadie
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
@@ -47,7 +47,7 @@ jobs:
           plugin_posts_covers: yes
           plugin_posts_limit: 6
           plugin_posts_source: dev.to
-          plugin_posts_user: rafnixg
+          plugin_posts_user: sethlabadie
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_starlists: yes
@@ -76,23 +76,23 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -m "[BOT] Update README with latest info"
   # build:
 
-  #   runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #     - name: Set up Python 3.12
-  #       uses: actions/setup-python@v2
-  #       with:
-  #         python-version: 3.8
-  #     - name: Install dependencies
-  #       run: |
-  #         python -m pip install --upgrade pip
-  #         pip install -r requirements.txt
-  #     - name: Run script
-  #       run: |
-  #         python app.py
-  #         git config user.name sethlabadie
-  #         git config user.email sethlabadie@gmail.com
-  #         git add README.md
-  #         git diff --quiet && git diff --staged --quiet || git commit -m "[BOT] Update README with latest info"
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run script
+        run: |
+          python app.py
+          git config user.name sethlabadie
+          git config user.email sethlabadie@gmail.com
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "[BOT] Update README with latest info"
           git push origin master

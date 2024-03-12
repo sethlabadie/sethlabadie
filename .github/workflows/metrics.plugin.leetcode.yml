@@ -22,7 +22,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           config_timezone: America/New_York
-          filename: /assets/img/metrics.plugin.leetcode.svg
+          filename: assets/img/metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           #output_action: gist
           #committer_gist: ${{ secrets.TOKEN }}
