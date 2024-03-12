@@ -73,6 +73,12 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 <a href="https://instagram.com/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sethlabadie" height="30" width="40" /></a>
 
 
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github-mark.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/swastik-baranwal/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456)
+|---|---|---|---|---|---|---|
+
+
+
+
 ---
 
 <h2> My GitHub Metrics <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
