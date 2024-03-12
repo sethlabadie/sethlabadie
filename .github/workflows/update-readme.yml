@@ -8,6 +8,14 @@
 # permissions:
 #   contents: write # To write the generated contents to the readme
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 # jobs:
 #   build:
 #     runs-on: ubuntu-latest
