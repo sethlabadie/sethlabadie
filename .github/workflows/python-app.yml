@@ -57,12 +57,11 @@ jobs:
           plugin_starlists_shuffle_repositories: yes
 
 
-  build:
-
-    runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
         with:

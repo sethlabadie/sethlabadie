@@ -1,4 +1,4 @@
-[![GitHub Followers](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
+aba[![GitHub Followers](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/sethlabadie?logo=github&style=plastic)
 [![Linkedin Badge](https://img.shields.io/badge/-sethlabadie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethlabadie/)
 [![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
@@ -13,6 +13,7 @@ README is a work in progress atm...
 <br />
 <br />
 
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <!--- Daily.dev card --->
 <div align="left">
@@ -20,15 +21,11 @@ README is a work in progress atm...
     <img
       width="300"
       align="right"
-      src="https://raw.githubusercontent.com/sethlabadie/sethlabadie/devcard/devcard.png"
+      src="https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/devcard.png"
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
 </div>
-
-
-
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
@@ -111,13 +108,10 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2024 - To: 27 February 2024
+From: 03 March 2024 - To: 10 March 2024
 
-Markdown   1 hr 50 mins    ███████░░░░░░░░░░░░░░░░░░   27.51 %
-sh         1 hr 33 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
-Other      1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
-YAML       50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Python     49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+HTML   14 mins         ████████████████████████▓   98.46 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
