@@ -1,4 +1,5 @@
-aba[![GitHub Followers](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sethlabadie)
 ![GitHub Stars](https://img.shields.io/github/stars/sethlabadie?logo=github&style=plastic)
 [![Linkedin Badge](https://img.shields.io/badge/-sethlabadie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethlabadie/)
 [![twitter](https://img.shields.io/twitter/follow/sethlabadie?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/sethlabadie)
