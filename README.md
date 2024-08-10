@@ -107,13 +107,9 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
-sh                 50 mins         █████████████████▒░░░░░░░   68.78 %
-Python             10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-Text               7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Other              3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-Markdown           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Text   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
