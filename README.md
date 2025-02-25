@@ -107,7 +107,7 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2025 - To: 23 February 2025
+From: 17 February 2025 - To: 24 February 2025
 
 Python   50 mins         ██████████████████████░░░   87.57 %
 Other    7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
