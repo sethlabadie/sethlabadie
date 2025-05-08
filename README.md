@@ -107,13 +107,13 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2025 - To: 06 May 2025
+From: 30 April 2025 - To: 07 May 2025
 
-Markdown           6 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.88 %
-Bash               5 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.17 %
-Other              5 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   23.97 %
-Python             2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-TOML               1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Other                7 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Markdown             7 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Bash                 5 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
+TOML                 2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Python               1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
