@@ -152,6 +152,7 @@ Machine Learning:
 </p>
 [![https://scikit-learn.org](/assets/img/scikit-learn-logo-without-subtitle.svg)](/assets/img/scikit-learn-logo-without-subtitle.svg)
 [https://scikit-learn.org](/assets/img/scikit-learn-logo-without-subtitle.svg)
+![https://scikit-learn.org](/assets/img/scikit-learn-logo-without-subtitle.svg)
 <p align="left">
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
