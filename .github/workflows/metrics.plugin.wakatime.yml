@@ -1,42 +1,62 @@
 # Visit # https://github.com/lowlighter/metrics/blob/master/source/plugins/wakatime/README.md for full reference
 
-name: GitHub Metrics - WakaTime
+
+
+name: WakaTime
 
 on:
   schedule: [{cron: "11 2 * * *"}] # Runs at 02:11 America/New_York every day
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    environment: 
-      name: production
-    permissions:
-      contents: write
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.wakatime.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_wakatime: yes
+  plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+  plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+
+
+# name: GitHub Metrics - WakaTime
+
+# on:
+#   schedule: [{cron: "11 2 * * *"}] # Runs at 02:11 America/New_York every day
+#   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+#   #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
+
+# jobs:
+#   metrics:
+#     runs-on: ubuntu-latest
+#     environment: 
+#       name: production
+#     permissions:
+#       contents: write
       
-    steps:
+#     steps:
           
-      - name: GitHub Metrics - WakaTime
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          config_timezone: America/New_York
-          filename: assets/img/metrics.plugin.wakatime.svg
-          token: ${{ secrets.WAKATIME_TOKEN }}
-          #output_action: gist
-          #committer_gist: ${{ secrets.METRICS_TOKEN }}
-          commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
-          plugin_wakatime_user: sethlabadie
-          plugin_wakatime_days: 365
-          plugin_wakatime_limit: 10
-          plugin_wakatime_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
-          plugin_wakatime_sections: projects, languages, editors, os
-          optimize: css, xml, svg
-          experimental_features: --optimize-svg
-          output_condition: data-changed
-          config_display: regular
-          retries: 3
-          retries_delay: 60
-          retries_output_action: 3
-          retries_delay_output_action: 30
+#       - name: GitHub Metrics - WakaTime
+#         if: ${{ success() || failure() }}
+#         uses: lowlighter/metrics@latest
+#         with:
+#           config_timezone: America/New_York
+#           filename: assets/img/metrics.plugin.wakatime.svg
+#           token: ${{ secrets.WAKATIME_TOKEN }}
+#           # output_action: gist
+#           # committer_gist: ${{ secrets.METRICS_TOKEN }}
+#           commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
+#           plugin_wakatime_user: sethlabadie
+#           plugin_wakatime_days: 365
+#           plugin_wakatime_limit: 10
+#           plugin_wakatime_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+#           plugin_wakatime_sections: projects, languages, editors, os
+#           optimize: css, xml, svg
+#           experimental_features: --optimize-svg
+#           output_condition: data-changed
+#           config_display: regular
+#           retries: 3
+#           retries_delay: 60
+#           retries_output_action: 3
+#           retries_delay_output_action: 30

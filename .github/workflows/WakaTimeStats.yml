@@ -1,5 +1,5 @@
 name: Update WakaTime Stats
-
+# This workflow updates the WakaTime stats in the README file -- the ASCII version.
 on:
   schedule: [{cron: "44 2 * * *"}] # Runs at 02:44 America/New_York every day
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
