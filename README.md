@@ -1,18 +1,10 @@
+![Banner](/assets/img/Banner_Labadie.png)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sethlabadie)
 [![GitHub Followers](https://img.shields.io/github/followers/sethlabadie?logo=github&style=plastic)](https://github.com/sethlabadie?tab=followers)
 ![GitHub Stars](https://img.shields.io/github/stars/sethlabadie?logo=github&style=plastic)
 [![wakatime](https://wakatime.com/badge/user/018d1a7a-3684-4fa0-a2d4-18ba89ddd697.svg)](https://wakatime.com/@018d1a7a-3684-4fa0-a2d4-18ba89ddd697)
 [![Website](https://img.shields.io/website?label=sethlabadie.dev&url=https%3A%2F%2Fsethlabadie.dev)](https://sethlabadie.dev)
 [![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
-
-![Banner](/assets/img/Banner_Labadie.png)
-
-<br />
-README is a work in progress atm...
-<br />
-<br />
-
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 <!--- Daily.dev card --->
 <div align="left">
@@ -26,24 +18,49 @@ README is a work in progress atm...
   </a>
 </div>
 
+
+<br />
+README is a work in progress atm...
+<br />
+<br />
+
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+
+
 I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
-- 👀 I’m interested in improving national security through data science
-- 🔭 I’m currently working on databases, data migration, data cleaning, and data dictionaries
-- 🌱 I’m currently learning various Python packages, DevOps, Docker, Artificial Intelligence, Machine Learning
-- 👯 I’m looking to collaborate on improving skills in Python and Data Science
-- 🚀 Data Scientist at [NNData](https://www.nndata.com)
-- 🐕 Proud owner of Argo
+* 🌍  I'm based in Washington, DC
+* 👀 I’m interested in improving national security through data science
+* 🖥️  See my portfolio at [https://www.sethlabadie.dev](http://sethlabadie.dev)
+* ✉️  You can contact me at [sethlabadie@gmail.com](mailto:sethlabadie@gmail.com)
+* 🚀  I'm currently working on [Secret squirrel stuff](http://www.dod.mil)
+* 🌱 I’m currently learning DevOps, Artificial Intelligence, Machine Learning
+* 🐕 Proud owner of Argo
   <!--- 💍 Married to Martha-->
-- 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
-- 📫 How to reach me: <sethlabadie@gmail.com>
-- 🤔 I’m looking for help with Artificial Intelligence and Machine Learning
-- 💬 Ask me about the military, using Data Science to improve National Security
-- ⚡ Fun fact: I like Scuba Diving and skiing. So I am both a beach and mountains person.
+* 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
 <br />
 
 
 ### 🔗 &nbsp;Connect with me
+
+<p align="left"> 
+
+<a href="https://www.linkedin.com/in/sethlabadie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.github.com/sethlabadie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.gitlab.com/sethlabadie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.x.com/sethlabadie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.stackoverflow.com/users/sethlabadie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a>
+<a href="https://www.dev.to/sethlabadie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a>
+<a href="https://discord.com/users/sethlabadie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a>
+<a href="https://codesandbox.io/u/sethlabadie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://sethlabadie.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> 
+<a href="http://www.medium.com/sethlabadie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a>
+</p>
+
+
+
+
 
 [![website](/assets/img/globe-light.svg)](https://sethlabadie.dev#gh-light-mode-only)
 [![website](/assets/img/globe-dark.svg)](https://sethlabadie.dev#gh-dark-mode-only)
@@ -60,13 +77,6 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 [![website](/assets/img/instagram-light.svg)](https://instagram.com/sethlabadie#gh-light-mode-only)
 [![website](/assets/img/instagram-dark.svg)](https://instagram.com/sethlabadie#gh-dark-mode-only)
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://dev.to/sethlabadie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sethlabadie" height="30" width="40" /></a>
-<a href="https://twitter.com/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sethlabadie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sethlabadie" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5692844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5692844" height="30" width="40" /></a>
-<a href="https://instagram.com/sethlabadie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sethlabadie" height="30" width="40" /></a>
 
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github-mark.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/swastik-baranwal/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456)
