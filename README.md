@@ -75,7 +75,7 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 
 ---
-
+<!--- GitHub Metrics --->
 <h2> My GitHub Metrics <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40"> </h2>
 
 <!--- GitHub Metrics --->
@@ -89,7 +89,9 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 ![StackOverflow](/assets/img/metrics.plugin.stackoverflow.svg)<br />
 ![Contributions](/assets/img/metrics.plugin.contributions.svg)<br />
 ![Discussions](/assets/img/metrics.plugin.discussions.svg)<br />
+<!--
 ![Stargazers Combined](/assets/img/metrics.plugin.stargazers.combined.svg)<br />
+--->
 <!---![Sponsors](/assets/img/metrics.plugin.sponsors.svg)<br /><br /> --->
 <br />
 
@@ -103,8 +105,9 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 ![Seth's WakaTime Stats](/assets/img/metrics.plugin.wakatime.svg)
 
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+<!--
 ```txt
 From: 08 May 2025 - To: 15 May 2025
 
@@ -114,7 +117,7 @@ Markdown           2 hrs 32 mins   █████▒░░░░░░░░░
 TOML               41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 Bash               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
-
+-->
 <!--END_SECTION:waka-->
 
 ---
@@ -122,8 +125,8 @@ Bash               6 mins          ▒░░░░░░░░░░░░░░
 <h2> Technologies Which Interest Me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.zsh.org/" target="_blank"> <img src="https://raw.githubusercontent.com/sethlabadie/sethlabadie/assets/img/zsh.org" alt="zsh" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/sethlabadie/sethlabadie/assets/img/zsh.org" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
