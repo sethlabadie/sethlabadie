@@ -148,12 +148,6 @@ Database:
 Machine Learning:
 <p align="left">
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-</p>
-[![https://scikit-learn.org](/assets/img/scikit-learn-logo-without-subtitle.svg)](/assets/img/scikit-learn-logo-without-subtitle.svg)
-![Banner](/assets/img/scikit-learn-logo-without-subtitle.svg)
-[https://scikit-learn.org](https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/scikit-learn-logo-without-subtitle.svg)
-
-<p align="left">
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/scikit-learn-logo-without-subtitle.svg" alt="scikit-learn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
@@ -185,7 +179,7 @@ Frontend:
 
 Backend:
 <p align="left">
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/django-icon.svg" alt="django" width="40" height="40"/> </a>
 </p>
 <!--
 <a href="https://www.fastapi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
