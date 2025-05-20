@@ -19,33 +19,15 @@ jobs:
 
     steps:
           
-#       - name: GitHub Metrics - WakaTime
-#         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-#           config_timezone: America/New_York
           filename: assets/img/metrics.plugin.wakatime.svg
           token: ${{ secrets.WAKATIME_TOKEN }}
           base: ""
-#           # output_action: gist
-#           # committer_gist: ${{ secrets.METRICS_TOKEN }}
-#           commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
             plugin_wakatime: yes
             plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
             plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-#           plugin_wakatime_user: sethlabadie
-#           plugin_wakatime_days: 365
-#           plugin_wakatime_limit: 10
-#           plugin_wakatime_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
-#           plugin_wakatime_sections: projects, languages, editors, os
-#           optimize: css, xml, svg
-#           experimental_features: --optimize-svg
-#           output_condition: data-changed
-#           config_display: regular
-#           retries: 3
-#           retries_delay: 60
-#           retries_output_action: 3
-#           retries_delay_output_action: 30
+
 
 
 
