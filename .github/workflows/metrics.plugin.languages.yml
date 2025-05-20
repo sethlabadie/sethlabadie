@@ -31,7 +31,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_other: no
-          plugin_languages_ignored: html, css, scss, Jupyter Notebook, svg, png, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
+          plugin_languages_ignored: Jupyter Notebook, svg, png, tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
           plugin_languages_skipped: fireship-io-git-sticker, js-sticker, Complete-Python-3-Bootcamp, Plotly-Dashboards-with-Dash, Python-Narrative-Journey, readme-generator, installfest, Code-Platoon-Curriculum---Oscar-Platoon, foundations_for_deep_learning, ISLR-python, lowlighter/metrics
           # plugin_languages_aliases: javascript:JS typescript:TS
           plugin_languages_colors: github

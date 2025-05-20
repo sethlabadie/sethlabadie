@@ -29,6 +29,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_url: http://wakapi.dev
           commits_authoring: Seth Labadie, sethlabadie, sethlabadie@gmail.com, sethlabadie@users.noreply.github.com
           plugin_wakatime_user: sethlabadie
           plugin_wakatime_days: 365
