@@ -22,7 +22,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: assets/img/metrics.plugin.wakatime.svg
-          token: ${{ secrets.WAKATIME_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
             plugin_wakatime: yes
             plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
