@@ -34,7 +34,6 @@ jobs:
           plugin_wakatime_days: 365
           plugin_wakatime_limit: 10
           plugin_wakatime_languages_ignored: tex, less, dockerfile, makefile, qmake, lex, cmake, gnuplot
-          plugin_wakatime_sections: projects, languages, editors, os
           optimize: css, xml, svg
           experimental_features: --optimize-svg
           output_condition: data-changed
