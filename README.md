@@ -100,24 +100,8 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 <!--- from https://github.com/anuraghazra/github-readme-stats --->
 
-[![Seth's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sethlabadie&layout=compact&theme=dark&hide=Other,INI,Smarty)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Seth's WakaTime Stats](/assets/img/metrics.plugin.wakatime.svg)
 
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 12 May 2025 - To: 19 May 2025
-
-Python     3 hrs 15 mins   ████████████░░░░░░░░░░░░░   47.46 %
-Markdown   1 hr 39 mins    ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Other      48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-YAML       47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-TOML       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
