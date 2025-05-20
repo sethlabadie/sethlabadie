@@ -18,6 +18,7 @@ jobs:
       contents: write
 
     steps:
+
         - name: GitHub Metrics - WakaTime
         uses: lowlighter/metrics@latest
         with:
@@ -26,9 +27,9 @@ jobs:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-            plugin_wakatime: yes
-            plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-            plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
 
 
