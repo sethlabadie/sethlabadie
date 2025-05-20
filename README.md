@@ -80,6 +80,7 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 <!--- GitHub Metrics --->
 
 ![Introduction](/assets/img/metrics.plugin.base.svg)<br />
+![Seth's WakaTime Stats](/assets/img/metrics.plugin.wakatime.svg)
 ![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)<br />
 ![Followers](/assets/img/metrics.plugin.people.followers.svg)<br />
 ![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)<br />
@@ -93,14 +94,6 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 --->
 <!---![Sponsors](/assets/img/metrics.plugin.sponsors.svg)<br /><br /> --->
 <br />
-
----
-
-## My WakaTime Coding Stats
-
-<!--- from https://github.com/anuraghazra/github-readme-stats --->
-
-![Seth's WakaTime Stats](/assets/img/metrics.plugin.wakatime.svg)
 
 
 ---
