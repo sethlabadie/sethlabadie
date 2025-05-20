@@ -33,7 +33,7 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 * 🐕 Proud owner of Argo
   <!--- 💍 Married to Martha-->
 * 🙉 Hobbies include: Computers, Coding, Hiking, Scuba Diving, Skiing, Gym
-<br />
+<br/>
 
 
 ### 🔗 &nbsp;Connect with me
@@ -79,21 +79,21 @@ I'm Seth Labadie, and I work as a Data Scientist for the U.S. Government.
 
 <!--- GitHub Metrics --->
 
-![Introduction](/assets/img/metrics.plugin.base.svg)<br />
-![Seth's WakaTime Stats](/assets/img/metrics.plugin.wakatime.svg)<br />
-![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)<br />
-![Followers](/assets/img/metrics.plugin.people.followers.svg)<br />
-![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)<br />
-![Achievements](/assets/img/metrics.plugin.achievements.svg)<br />
-![Leetcode](/assets/img/metrics.plugin.leetcode.svg)<br />
-![StackOverflow](/assets/img/metrics.plugin.stackoverflow.svg)<br />
-![Contributions](/assets/img/metrics.plugin.contributions.svg)<br />
-![Discussions](/assets/img/metrics.plugin.discussions.svg)<br />
+![Introduction](/assets/img/metrics.plugin.base.svg)<br/><br/>
+![Seth's WakaTime Stats](/assets/img/metrics.plugin.wakatime.svg)<br/>
+![Languages In-Depth and Recent](/assets/img/metrics.plugin.languages.svg)<br/>
+![Followers](/assets/img/metrics.plugin.people.followers.svg)<br/>
+![Starred Topics](/assets/img/metrics.plugin.starred-topics.icons.svg)<br/>
+![Achievements](/assets/img/metrics.plugin.achievements.svg)<br/>
+![Leetcode](/assets/img/metrics.plugin.leetcode.svg)<br/>
+![StackOverflow](/assets/img/metrics.plugin.stackoverflow.svg)<br/>
+![Contributions](/assets/img/metrics.plugin.contributions.svg)<br/>
+![Discussions](/assets/img/metrics.plugin.discussions.svg)<br/>
 <!--
-![Stargazers Combined](/assets/img/metrics.plugin.stargazers.combined.svg)<br />
+![Stargazers Combined](/assets/img/metrics.plugin.stargazers.combined.svg)<br/>
 --->
-<!---![Sponsors](/assets/img/metrics.plugin.sponsors.svg)<br /><br /> --->
-<br />
+<!---![Sponsors](/assets/img/metrics.plugin.sponsors.svg)<br/><br/> --->
+<br/>
 
 
 ---
@@ -215,22 +215,8 @@ DevOps:
 <!--END_SECTION:badges-->
 
 
-<!---
--->
-
 
 <!---
-sethlabadie/sethlabadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<!---
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seth Labadie
-====================================================================================================================================
-
-
 
 ### Badges
 
