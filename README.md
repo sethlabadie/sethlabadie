@@ -115,9 +115,10 @@ Tools:
 Database:
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </picture> </a>&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.mongodb.com/" /> <source media="(prefers-color-scheme: light)" srcset="https://www.mongodb.com/" /> <img src="https://www.mongodb.com/" alt="mongodb" width="40" height="40" /> </picture> </a>&nbsp;
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40" /> </picture> </a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </picture> </a>&nbsp;
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40" /> </picture> </a>
 </p>
+
 <!--
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>&nbsp;&nbsp;
@@ -125,20 +126,27 @@ Database:
 
 Machine Learning:
 <p align="left">
-<a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/scikit-learn-logo-without-subtitle.svg" alt="scikit-learn" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>&nbsp;&nbsp;
+
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40" /> </picture> </a>&nbsp;
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" /> </picture> </a>&nbsp;
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40" /> </picture> </a>
+
+
+
 </p>
 
 Cloud: 
 <p align="left">
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </picture> </a>
+
 </p>
 
 Frontend:
 <p align="left">
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.css3.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </picture> </a>&nbsp;
+<a href="https://www.css3.com/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </picture> </a>&nbsp;
+<a href="https://d3js.org" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /> </picture> </a>&nbsp;
 </p>
 
 <!--
