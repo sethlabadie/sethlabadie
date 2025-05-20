@@ -22,7 +22,7 @@
 <div align="left">
   <a href="https://app.daily.dev/sethlabadie" target="_blank">
     <img
-      width="300"
+      width="200"
       align="right"
       src="https://api.daily.dev/devcards/v2/BiDSECVhUxmd1tvIxeqCU.png?type=default&r=8e1"
       alt="Seth Labadie's Daily.Dev Card"
