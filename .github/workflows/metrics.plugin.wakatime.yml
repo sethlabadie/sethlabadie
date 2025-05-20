@@ -18,8 +18,7 @@ jobs:
       contents: write
 
     steps:
-
-        - name: GitHub Metrics - WakaTime
+      - name: GitHub Metrics - WakaTime
         uses: lowlighter/metrics@latest
         with:
           filename: assets/img/metrics.plugin.wakatime.svg
