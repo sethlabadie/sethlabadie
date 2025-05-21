@@ -12,7 +12,7 @@
     <img
       width="300"
       align="right"
-      src="./assets/img/devcard.png"
+      src="/assets/img/devcard.png"
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
