@@ -7,16 +7,17 @@
 [![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
 
 <!--- Daily.dev card --->
-<!-- <div align="left">
-  <a href="https://api.daily.dev/get?r=sethlabadie" target="_blank">
+<div align="left">
+  <a href="https://api.daily.dev/sethlabadie" target="_blank">
     <img
       width="300"
       align="right"
-      src="https://github.com/sethlabadie/sethlabadie/blob/main/assets/img/devcard.png"
+      src="./assets/img/devcard.png"
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
-</div> -->
+</div>
+
 
 <!--- Daily.dev card --->
 <div align="left">
@@ -233,6 +234,10 @@ DevOps:
 <!--START_SECTION:badges-->
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)](http://www.credly.com/badges/1761c0cd-c4f3-4fa7-8854-6b00479f4c46 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 <!--END_SECTION:badges-->
+
+
+
+
 
 
 
