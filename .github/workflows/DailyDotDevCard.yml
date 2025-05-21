@@ -19,7 +19,7 @@ jobs:
 
       - name: DailyDotDevCard
         if: ${{ success() || failure() }}
-        uses: dailydotdev/action-devcard@3.2.1
+        uses: dailydotdev/action-devcard@3.0.0
         with:
           user_id: ${{ secrets.DEVCARD_ID }}
           commit_filename: assets/img/devcard.png
