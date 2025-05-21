@@ -3,9 +3,9 @@
 name: DailyDotDevCard
 
 on:
-  schedule: [{cron: "44 1 * * *"}] # Runs at 01:44 America/New_York every day
+  schedule: [{cron: "0 0 * * *"}] # Runs at 00:00 America/New_York every day
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-  #push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]} # (optional) Run workflow when pushing on master/main
 
 jobs:
   DailyDotDevCard:
@@ -22,6 +22,5 @@ jobs:
         uses: dailydotdev/action-devcard@3.2.1
         with:
           user_id: ${{ secrets.DEVCARD_ID }}
-          commit_branch: devcard
           commit_filename: assets/img/devcard.png
           commit_message: "chore: update ${filename}"
