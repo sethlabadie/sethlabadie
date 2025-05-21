@@ -7,7 +7,7 @@
 [![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
 
 <!--- Daily.dev card (Not updating properly)--->
-<!-- <div align="left">
+<div align="left">
   <a href="https://api.daily.dev/sethlabadie" target="_blank">
     <img
       width="300"
@@ -16,7 +16,7 @@
       alt="Seth Labadie's Daily.Dev Card"
     />
   </a>
-</div> -->
+</div>
 
 
 <!--- Daily.dev card --->
