@@ -125,7 +125,7 @@
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">unknown</span>
+                                <span class="name">Unknown</span>
                                 <div class="bar" style="width: 15.831999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">20%</span>
                             </div>
@@ -150,12 +150,12 @@
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">sh</span>
+                                <span class="name">Sh</span>
                                 <div class="bar" style="width: 3.5999999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JSON</span>
+                                <span class="name">Json</span>
                                 <div class="bar" style="width: 1.2%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
