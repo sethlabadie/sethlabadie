@@ -18,7 +18,7 @@ jobs:
     steps:
       - name: Checkout
         if: ${{ success() || failure() }}
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Pull in dev.to posts
         if: ${{ success() || failure() }}
         uses: gautamkrishnar/blog-post-workflow@master
